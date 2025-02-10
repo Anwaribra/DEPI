@@ -1,0 +1,1585 @@
+Date,Building,City,State,Country,Energy Type,Consumption,Price Per Unit
+2016-01-01,B1000,New York,New York,USA,Water,346159,0.05
+2016-01-01,B1000,New York,New York,USA,Electricity,38819,0.08
+2016-01-01,B1000,New York,New York,USA,Gas,3378,1
+2016-01-01,B1001,New York,New York,USA,Water,281717,0.05
+2016-01-01,B1001,New York,New York,USA,Electricity,46252,0.08
+2016-01-01,B1002,New York,New York,USA,Water,259530,0.05
+2016-01-01,B1002,New York,New York,USA,Electricity,41091,0.08
+2016-01-01,B1003,Los Angeles,California,USA,Water,309176,0.05
+2016-01-01,B1003,Los Angeles,California,USA,Electricity,25577,0.08
+2016-01-01,B1004,Chicago,Illinois,USA,Water,257742,0.05
+2016-01-01,B1004,Chicago,Illinois,USA,Electricity,33917,0.08
+2016-01-01,B1005,Houston,Texas,USA,Water,276221,0.05
+2016-01-01,B1001,New York,New York,USA,Gas,2187,1
+2016-01-01,B1002,New York,New York,USA,Gas,3173,1
+2016-01-01,B1003,Los Angeles,California,USA,Gas,3581,1
+2016-01-01,B1004,Chicago,Illinois,USA,Gas,4709,1
+2016-01-01,B1005,Houston,Texas,USA,Electricity,35698,0.08
+2016-01-01,B1005,Houston,Texas,USA,Gas,2810,1
+2016-01-01,B1006,Phoenix,Arizona,USA,Water,401399,0.05
+2016-01-01,B1006,Phoenix,Arizona,USA,Electricity,35458,0.08
+2016-01-01,B1006,Phoenix,Arizona,USA,Gas,3660,1
+2016-01-01,B1007,Chicago,Illinois,USA,Water,413543,0.05
+2016-01-01,B1007,Chicago,Illinois,USA,Electricity,29061,0.08
+2016-01-01,B1007,Chicago,Illinois,USA,Gas,2149,1
+2016-01-01,B1008,Chicago,Illinois,USA,Water,343048,0.05
+2016-01-01,B1008,Chicago,Illinois,USA,Electricity,30666,0.08
+2016-01-01,B1008,Chicago,Illinois,USA,Gas,4075,1
+2016-01-01,B1009,Los Angeles,California,USA,Water,412804,0.05
+2016-01-01,B1009,Los Angeles,California,USA,Electricity,23541,0.08
+2016-01-01,B1009,Los Angeles,California,USA,Gas,3263,1
+2016-01-01,B1010,Los Angeles,California,USA,Water,417348,0.05
+2016-01-01,B1010,Los Angeles,California,USA,Electricity,33490,0.08
+2016-01-01,B1010,Los Angeles,California,USA,Gas,3067,1
+2016-02-01,B1000,New York,New York,USA,Water,437812,0.05
+2016-02-01,B1000,New York,New York,USA,Electricity,41404,0.08
+2016-02-01,B1000,New York,New York,USA,Gas,4822,1
+2016-02-01,B1001,New York,New York,USA,Water,370356,0.05
+2016-02-01,B1001,New York,New York,USA,Electricity,50269,0.08
+2016-02-01,B1001,New York,New York,USA,Gas,2872,1
+2016-02-01,B1002,New York,New York,USA,Water,231200,0.05
+2016-02-01,B1002,New York,New York,USA,Electricity,38796,0.08
+2016-02-01,B1002,New York,New York,USA,Gas,4414,1
+2016-02-01,B1003,Los Angeles,California,USA,Water,336263,0.05
+2016-02-01,B1003,Los Angeles,California,USA,Electricity,30638,0.08
+2016-02-01,B1003,Los Angeles,California,USA,Gas,2861,1
+2016-02-01,B1004,Chicago,Illinois,USA,Water,267027,0.05
+2016-02-01,B1004,Chicago,Illinois,USA,Electricity,47231,0.08
+2016-02-01,B1004,Chicago,Illinois,USA,Gas,3846,1
+2016-02-01,B1005,Houston,Texas,USA,Water,424629,0.05
+2016-02-01,B1005,Houston,Texas,USA,Electricity,21445,0.08
+2016-02-01,B1005,Houston,Texas,USA,Gas,3802,1
+2016-02-01,B1006,Phoenix,Arizona,USA,Water,453536,0.05
+2016-02-01,B1006,Phoenix,Arizona,USA,Electricity,43418,0.08
+2016-02-01,B1006,Phoenix,Arizona,USA,Gas,4704,1
+2016-02-01,B1007,Chicago,Illinois,USA,Water,252241,0.05
+2016-02-01,B1007,Chicago,Illinois,USA,Electricity,49719,0.08
+2016-02-01,B1007,Chicago,Illinois,USA,Gas,2499,1
+2016-02-01,B1008,Chicago,Illinois,USA,Water,202733,0.05
+2016-02-01,B1008,Chicago,Illinois,USA,Electricity,32055,0.08
+2016-02-01,B1008,Chicago,Illinois,USA,Gas,3200,1
+2016-02-01,B1009,Los Angeles,California,USA,Water,258350,0.05
+2016-02-01,B1009,Los Angeles,California,USA,Electricity,33749,0.08
+2016-02-01,B1009,Los Angeles,California,USA,Gas,3946,1
+2016-02-01,B1010,Los Angeles,California,USA,Water,408801,0.05
+2016-02-01,B1010,Los Angeles,California,USA,Electricity,22845,0.08
+2016-02-01,B1010,Los Angeles,California,USA,Gas,4403,1
+2016-03-01,B1000,New York,New York,USA,Water,242522,0.05
+2016-03-01,B1000,New York,New York,USA,Electricity,27059,0.08
+2016-03-01,B1000,New York,New York,USA,Gas,2617,1
+2016-03-01,B1001,New York,New York,USA,Water,363959,0.05
+2016-03-01,B1001,New York,New York,USA,Electricity,33456,0.08
+2016-03-01,B1001,New York,New York,USA,Gas,2317,1
+2016-03-01,B1002,New York,New York,USA,Water,424409,0.05
+2016-03-01,B1002,New York,New York,USA,Electricity,26934,0.08
+2016-03-01,B1002,New York,New York,USA,Gas,2160,1
+2016-03-01,B1003,Los Angeles,California,USA,Water,423089,0.05
+2016-03-01,B1003,Los Angeles,California,USA,Electricity,35397,0.08
+2016-03-01,B1003,Los Angeles,California,USA,Gas,4854,1
+2016-03-01,B1004,Chicago,Illinois,USA,Water,234020,0.05
+2016-03-01,B1004,Chicago,Illinois,USA,Electricity,34906,0.08
+2016-03-01,B1004,Chicago,Illinois,USA,Gas,3400,1
+2016-03-01,B1005,Houston,Texas,USA,Water,417242,0.05
+2016-03-01,B1005,Houston,Texas,USA,Electricity,40682,0.08
+2016-03-01,B1005,Houston,Texas,USA,Gas,3773,1
+2016-03-01,B1006,Phoenix,Arizona,USA,Water,398217,0.05
+2016-03-01,B1006,Phoenix,Arizona,USA,Electricity,33341,0.08
+2016-03-01,B1006,Phoenix,Arizona,USA,Gas,4886,1
+2016-03-01,B1007,Chicago,Illinois,USA,Water,461819,0.05
+2016-03-01,B1007,Chicago,Illinois,USA,Electricity,29178,0.08
+2016-03-01,B1007,Chicago,Illinois,USA,Gas,2844,1
+2016-03-01,B1008,Chicago,Illinois,USA,Water,239402,0.05
+2016-03-01,B1008,Chicago,Illinois,USA,Electricity,48668,0.08
+2016-03-01,B1008,Chicago,Illinois,USA,Gas,2327,1
+2016-03-01,B1009,Los Angeles,California,USA,Water,238633,0.05
+2016-03-01,B1009,Los Angeles,California,USA,Electricity,29262,0.08
+2016-03-01,B1009,Los Angeles,California,USA,Gas,4298,1
+2016-03-01,B1010,Los Angeles,California,USA,Water,471206,0.05
+2016-03-01,B1010,Los Angeles,California,USA,Electricity,29866,0.08
+2016-03-01,B1010,Los Angeles,California,USA,Gas,4075,1
+2016-04-01,B1000,New York,New York,USA,Water,266742,0.05
+2016-04-01,B1000,New York,New York,USA,Electricity,36271,0.08
+2016-04-01,B1000,New York,New York,USA,Gas,3267,1
+2016-04-01,B1001,New York,New York,USA,Water,242610,0.05
+2016-04-01,B1001,New York,New York,USA,Electricity,50193,0.08
+2016-04-01,B1001,New York,New York,USA,Gas,3522,1
+2016-04-01,B1002,New York,New York,USA,Water,488203,0.05
+2016-04-01,B1002,New York,New York,USA,Electricity,38987,0.08
+2016-04-01,B1002,New York,New York,USA,Gas,4520,1
+2016-04-01,B1003,Los Angeles,California,USA,Water,314863,0.05
+2016-04-01,B1003,Los Angeles,California,USA,Electricity,40734,0.08
+2016-04-01,B1003,Los Angeles,California,USA,Gas,3697,1
+2016-04-01,B1004,Chicago,Illinois,USA,Water,329990,0.05
+2016-04-01,B1004,Chicago,Illinois,USA,Electricity,32011,0.08
+2016-04-01,B1004,Chicago,Illinois,USA,Gas,3175,1
+2016-04-01,B1005,Houston,Texas,USA,Water,243752,0.05
+2016-04-01,B1005,Houston,Texas,USA,Electricity,35146,0.08
+2016-04-01,B1005,Houston,Texas,USA,Gas,3775,1
+2016-04-01,B1006,Phoenix,Arizona,USA,Water,393447,0.05
+2016-04-01,B1006,Phoenix,Arizona,USA,Electricity,30633,0.08
+2016-04-01,B1006,Phoenix,Arizona,USA,Gas,4645,1
+2016-04-01,B1007,Chicago,Illinois,USA,Water,361251,0.05
+2016-04-01,B1007,Chicago,Illinois,USA,Electricity,44703,0.08
+2016-04-01,B1007,Chicago,Illinois,USA,Gas,3097,1
+2016-04-01,B1008,Chicago,Illinois,USA,Water,249738,0.05
+2016-04-01,B1008,Chicago,Illinois,USA,Electricity,30314,0.08
+2016-04-01,B1008,Chicago,Illinois,USA,Gas,4818,1
+2016-04-01,B1009,Los Angeles,California,USA,Water,446149,0.05
+2016-04-01,B1009,Los Angeles,California,USA,Electricity,23830,0.08
+2016-04-01,B1009,Los Angeles,California,USA,Gas,3599,1
+2016-04-01,B1010,Los Angeles,California,USA,Water,310387,0.05
+2016-04-01,B1010,Los Angeles,California,USA,Electricity,47597,0.08
+2016-04-01,B1010,Los Angeles,California,USA,Gas,4378,1
+2016-05-01,B1000,New York,New York,USA,Water,307569,0.05
+2016-05-01,B1000,New York,New York,USA,Electricity,47745,0.08
+2016-05-01,B1000,New York,New York,USA,Gas,3581,1
+2016-05-01,B1001,New York,New York,USA,Water,497381,0.05
+2016-05-01,B1001,New York,New York,USA,Electricity,27675,0.08
+2016-05-01,B1001,New York,New York,USA,Gas,4381,1
+2016-05-01,B1002,New York,New York,USA,Water,216109,0.05
+2016-05-01,B1002,New York,New York,USA,Electricity,39647,0.08
+2016-05-01,B1002,New York,New York,USA,Gas,2735,1
+2016-05-01,B1003,Los Angeles,California,USA,Water,265688,0.05
+2016-05-01,B1003,Los Angeles,California,USA,Electricity,37347,0.08
+2016-05-01,B1003,Los Angeles,California,USA,Gas,4357,1
+2016-05-01,B1004,Chicago,Illinois,USA,Water,205951,0.05
+2016-05-01,B1004,Chicago,Illinois,USA,Electricity,25297,0.08
+2016-05-01,B1004,Chicago,Illinois,USA,Gas,3933,1
+2016-05-01,B1005,Houston,Texas,USA,Water,470276,0.05
+2016-05-01,B1005,Houston,Texas,USA,Electricity,26339,0.08
+2016-05-01,B1005,Houston,Texas,USA,Gas,4602,1
+2016-05-01,B1006,Phoenix,Arizona,USA,Water,429552,0.05
+2016-05-01,B1006,Phoenix,Arizona,USA,Electricity,34993,0.08
+2016-05-01,B1006,Phoenix,Arizona,USA,Gas,4807,1
+2016-05-01,B1007,Chicago,Illinois,USA,Water,476596,0.05
+2016-05-01,B1007,Chicago,Illinois,USA,Electricity,48104,0.08
+2016-05-01,B1007,Chicago,Illinois,USA,Gas,5228,1
+2016-05-01,B1008,Chicago,Illinois,USA,Water,460030,0.05
+2016-05-01,B1008,Chicago,Illinois,USA,Electricity,27802,0.08
+2016-05-01,B1008,Chicago,Illinois,USA,Gas,4766,1
+2016-05-01,B1009,Los Angeles,California,USA,Water,459351,0.05
+2016-05-01,B1009,Los Angeles,California,USA,Electricity,47591,0.08
+2016-05-01,B1009,Los Angeles,California,USA,Gas,4146,1
+2016-05-01,B1010,Los Angeles,California,USA,Water,498942,0.05
+2016-05-01,B1010,Los Angeles,California,USA,Electricity,34140,0.08
+2016-05-01,B1010,Los Angeles,California,USA,Gas,4374,1
+2016-06-01,B1000,New York,New York,USA,Water,332451,0.05
+2016-06-01,B1000,New York,New York,USA,Electricity,21944,0.08
+2016-06-01,B1000,New York,New York,USA,Gas,4259,1
+2016-06-01,B1001,New York,New York,USA,Water,358497,0.05
+2016-06-01,B1001,New York,New York,USA,Electricity,46514,0.08
+2016-06-01,B1001,New York,New York,USA,Gas,3885,1
+2016-06-01,B1002,New York,New York,USA,Water,216537,0.05
+2016-06-01,B1002,New York,New York,USA,Electricity,49269,0.08
+2016-06-01,B1002,New York,New York,USA,Gas,3949,1
+2016-06-01,B1003,Los Angeles,California,USA,Water,397773,0.05
+2016-06-01,B1003,Los Angeles,California,USA,Electricity,43278,0.08
+2016-06-01,B1003,Los Angeles,California,USA,Gas,2718,1
+2016-06-01,B1004,Chicago,Illinois,USA,Water,490303,0.05
+2016-06-01,B1004,Chicago,Illinois,USA,Electricity,41112,0.08
+2016-06-01,B1004,Chicago,Illinois,USA,Gas,5208,1
+2016-06-01,B1005,Houston,Texas,USA,Water,371226,0.05
+2016-06-01,B1005,Houston,Texas,USA,Electricity,35925,0.08
+2016-06-01,B1005,Houston,Texas,USA,Gas,4491,1
+2016-06-01,B1006,Phoenix,Arizona,USA,Water,499003,0.05
+2016-06-01,B1006,Phoenix,Arizona,USA,Electricity,46981,0.08
+2016-06-01,B1006,Phoenix,Arizona,USA,Gas,3201,1
+2016-06-01,B1007,Chicago,Illinois,USA,Water,313142,0.05
+2016-06-01,B1007,Chicago,Illinois,USA,Electricity,23787,0.08
+2016-06-01,B1007,Chicago,Illinois,USA,Gas,4090,1
+2016-06-01,B1008,Chicago,Illinois,USA,Water,317741,0.05
+2016-06-01,B1008,Chicago,Illinois,USA,Electricity,26631,0.08
+2016-06-01,B1008,Chicago,Illinois,USA,Gas,2874,1
+2016-06-01,B1009,Los Angeles,California,USA,Water,370077,0.05
+2016-06-01,B1009,Los Angeles,California,USA,Electricity,41555,0.08
+2016-06-01,B1009,Los Angeles,California,USA,Gas,2462,1
+2016-06-01,B1010,Los Angeles,California,USA,Water,414824,0.05
+2016-06-01,B1010,Los Angeles,California,USA,Electricity,32686,0.08
+2016-06-01,B1010,Los Angeles,California,USA,Gas,2399,1
+2016-07-01,B1000,New York,New York,USA,Water,460927,0.05
+2016-07-01,B1000,New York,New York,USA,Electricity,28072,0.08
+2016-07-01,B1000,New York,New York,USA,Gas,4909,1
+2016-07-01,B1001,New York,New York,USA,Water,255058,0.05
+2016-07-01,B1001,New York,New York,USA,Electricity,22048,0.08
+2016-07-01,B1001,New York,New York,USA,Gas,4602,1
+2016-07-01,B1002,New York,New York,USA,Water,266818,0.05
+2016-07-01,B1002,New York,New York,USA,Electricity,42219,0.08
+2016-07-01,B1002,New York,New York,USA,Gas,4056,1
+2016-07-01,B1003,Los Angeles,California,USA,Water,438939,0.05
+2016-07-01,B1003,Los Angeles,California,USA,Electricity,46136,0.08
+2016-07-01,B1003,Los Angeles,California,USA,Gas,4540,1
+2016-07-01,B1004,Chicago,Illinois,USA,Water,465708,0.05
+2016-07-01,B1004,Chicago,Illinois,USA,Electricity,42630,0.08
+2016-07-01,B1004,Chicago,Illinois,USA,Gas,2391,1
+2016-07-01,B1005,Houston,Texas,USA,Water,284561,0.05
+2016-07-01,B1005,Houston,Texas,USA,Electricity,41079,0.08
+2016-07-01,B1005,Houston,Texas,USA,Gas,5058,1
+2016-07-01,B1006,Phoenix,Arizona,USA,Water,404080,0.05
+2016-07-01,B1006,Phoenix,Arizona,USA,Electricity,25445,0.08
+2016-07-01,B1006,Phoenix,Arizona,USA,Gas,3228,1
+2016-07-01,B1007,Chicago,Illinois,USA,Water,202790,0.05
+2016-07-01,B1007,Chicago,Illinois,USA,Electricity,49762,0.08
+2016-07-01,B1007,Chicago,Illinois,USA,Gas,3911,1
+2016-07-01,B1008,Chicago,Illinois,USA,Water,293231,0.05
+2016-07-01,B1008,Chicago,Illinois,USA,Electricity,31431,0.08
+2016-07-01,B1008,Chicago,Illinois,USA,Gas,2674,1
+2016-07-01,B1009,Los Angeles,California,USA,Water,205516,0.05
+2016-07-01,B1009,Los Angeles,California,USA,Electricity,37058,0.08
+2016-07-01,B1009,Los Angeles,California,USA,Gas,5334,1
+2016-07-01,B1010,Los Angeles,California,USA,Water,333281,0.05
+2016-07-01,B1010,Los Angeles,California,USA,Electricity,50319,0.08
+2016-07-01,B1010,Los Angeles,California,USA,Gas,4902,1
+2016-08-01,B1000,New York,New York,USA,Water,252698,0.05
+2016-08-01,B1000,New York,New York,USA,Electricity,45063,0.08
+2016-08-01,B1000,New York,New York,USA,Gas,2995,1
+2016-08-01,B1001,New York,New York,USA,Water,223918,0.05
+2016-08-01,B1001,New York,New York,USA,Electricity,33654,0.08
+2016-08-01,B1001,New York,New York,USA,Gas,4406,1
+2016-08-01,B1002,New York,New York,USA,Water,395586,0.05
+2016-08-01,B1002,New York,New York,USA,Electricity,35793,0.08
+2016-08-01,B1002,New York,New York,USA,Gas,2424,1
+2016-08-01,B1003,Los Angeles,California,USA,Water,346811,0.05
+2016-08-01,B1003,Los Angeles,California,USA,Electricity,43615,0.08
+2016-08-01,B1003,Los Angeles,California,USA,Gas,4942,1
+2016-08-01,B1004,Chicago,Illinois,USA,Water,379880,0.05
+2016-08-01,B1004,Chicago,Illinois,USA,Electricity,39069,0.08
+2016-08-01,B1004,Chicago,Illinois,USA,Gas,4594,1
+2016-08-01,B1005,Houston,Texas,USA,Water,329126,0.05
+2016-08-01,B1005,Houston,Texas,USA,Electricity,35694,0.08
+2016-08-01,B1005,Houston,Texas,USA,Gas,3271,1
+2016-08-01,B1006,Phoenix,Arizona,USA,Water,431541,0.05
+2016-08-01,B1006,Phoenix,Arizona,USA,Electricity,37407,0.08
+2016-08-01,B1006,Phoenix,Arizona,USA,Gas,4923,1
+2016-08-01,B1007,Chicago,Illinois,USA,Water,283321,0.05
+2016-08-01,B1007,Chicago,Illinois,USA,Electricity,50542,0.08
+2016-08-01,B1007,Chicago,Illinois,USA,Gas,2957,1
+2016-08-01,B1008,Chicago,Illinois,USA,Water,221813,0.05
+2016-08-01,B1008,Chicago,Illinois,USA,Electricity,49394,0.08
+2016-08-01,B1008,Chicago,Illinois,USA,Gas,2610,1
+2016-08-01,B1009,Los Angeles,California,USA,Water,447622,0.05
+2016-08-01,B1009,Los Angeles,California,USA,Electricity,43570,0.08
+2016-08-01,B1009,Los Angeles,California,USA,Gas,3167,1
+2016-08-01,B1010,Los Angeles,California,USA,Water,216859,0.05
+2016-08-01,B1010,Los Angeles,California,USA,Electricity,26048,0.08
+2016-08-01,B1010,Los Angeles,California,USA,Gas,2623,1
+2016-09-01,B1000,New York,New York,USA,Water,244019,0.05
+2016-09-01,B1000,New York,New York,USA,Electricity,25874,0.08
+2016-09-01,B1000,New York,New York,USA,Gas,5086,1
+2016-09-01,B1001,New York,New York,USA,Water,207081,0.05
+2016-09-01,B1001,New York,New York,USA,Electricity,34311,0.08
+2016-09-01,B1001,New York,New York,USA,Gas,4312,1
+2016-09-01,B1002,New York,New York,USA,Water,370185,0.05
+2016-09-01,B1002,New York,New York,USA,Electricity,24478,0.08
+2016-09-01,B1002,New York,New York,USA,Gas,4326,1
+2016-09-01,B1003,Los Angeles,California,USA,Water,397906,0.05
+2016-09-01,B1003,Los Angeles,California,USA,Electricity,30891,0.08
+2016-09-01,B1003,Los Angeles,California,USA,Gas,3604,1
+2016-09-01,B1004,Chicago,Illinois,USA,Water,309002,0.05
+2016-09-01,B1004,Chicago,Illinois,USA,Electricity,34569,0.08
+2016-09-01,B1004,Chicago,Illinois,USA,Gas,4672,1
+2016-09-01,B1005,Houston,Texas,USA,Water,404468,0.05
+2016-09-01,B1005,Houston,Texas,USA,Electricity,44257,0.08
+2016-09-01,B1005,Houston,Texas,USA,Gas,2509,1
+2016-09-01,B1006,Phoenix,Arizona,USA,Water,421190,0.05
+2016-09-01,B1006,Phoenix,Arizona,USA,Electricity,49361,0.08
+2016-09-01,B1006,Phoenix,Arizona,USA,Gas,2945,1
+2016-09-01,B1007,Chicago,Illinois,USA,Water,307448,0.05
+2016-09-01,B1007,Chicago,Illinois,USA,Electricity,23543,0.08
+2016-09-01,B1007,Chicago,Illinois,USA,Gas,3925,1
+2016-09-01,B1008,Chicago,Illinois,USA,Water,308518,0.05
+2016-09-01,B1008,Chicago,Illinois,USA,Electricity,35338,0.08
+2016-09-01,B1008,Chicago,Illinois,USA,Gas,4350,1
+2016-09-01,B1009,Los Angeles,California,USA,Water,259650,0.05
+2016-09-01,B1009,Los Angeles,California,USA,Electricity,40670,0.08
+2016-09-01,B1009,Los Angeles,California,USA,Gas,3025,1
+2016-09-01,B1010,Los Angeles,California,USA,Water,394673,0.05
+2016-09-01,B1010,Los Angeles,California,USA,Electricity,30268,0.08
+2016-09-01,B1010,Los Angeles,California,USA,Gas,4574,1
+2016-10-01,B1000,New York,New York,USA,Water,334502,0.05
+2016-10-01,B1000,New York,New York,USA,Electricity,49641,0.08
+2016-10-01,B1000,New York,New York,USA,Gas,3278,1
+2016-10-01,B1001,New York,New York,USA,Water,234978,0.05
+2016-10-01,B1001,New York,New York,USA,Electricity,47808,0.08
+2016-10-01,B1001,New York,New York,USA,Gas,5414,1
+2016-10-01,B1002,New York,New York,USA,Water,331388,0.05
+2016-10-01,B1002,New York,New York,USA,Electricity,43291,0.08
+2016-10-01,B1002,New York,New York,USA,Gas,4083,1
+2016-10-01,B1003,Los Angeles,California,USA,Water,340609,0.05
+2016-10-01,B1003,Los Angeles,California,USA,Electricity,50631,0.08
+2016-10-01,B1003,Los Angeles,California,USA,Gas,3234,1
+2016-10-01,B1004,Chicago,Illinois,USA,Water,432769,0.05
+2016-10-01,B1004,Chicago,Illinois,USA,Electricity,42244,0.08
+2016-10-01,B1004,Chicago,Illinois,USA,Gas,5224,1
+2016-10-01,B1005,Houston,Texas,USA,Water,361418,0.05
+2016-10-01,B1005,Houston,Texas,USA,Electricity,28023,0.08
+2016-10-01,B1005,Houston,Texas,USA,Gas,4131,1
+2016-10-01,B1006,Phoenix,Arizona,USA,Water,500791,0.05
+2016-10-01,B1006,Phoenix,Arizona,USA,Electricity,47578,0.08
+2016-10-01,B1006,Phoenix,Arizona,USA,Gas,2726,1
+2016-10-01,B1007,Chicago,Illinois,USA,Water,444777,0.05
+2016-10-01,B1007,Chicago,Illinois,USA,Electricity,34513,0.08
+2016-10-01,B1007,Chicago,Illinois,USA,Gas,5362,1
+2016-10-01,B1008,Chicago,Illinois,USA,Water,337703,0.05
+2016-10-01,B1008,Chicago,Illinois,USA,Electricity,41417,0.08
+2016-10-01,B1008,Chicago,Illinois,USA,Gas,4203,1
+2016-10-01,B1009,Los Angeles,California,USA,Water,303875,0.05
+2016-10-01,B1009,Los Angeles,California,USA,Electricity,36139,0.08
+2016-10-01,B1009,Los Angeles,California,USA,Gas,3009,1
+2016-10-01,B1010,Los Angeles,California,USA,Water,340881,0.05
+2016-10-01,B1010,Los Angeles,California,USA,Electricity,39723,0.08
+2016-10-01,B1010,Los Angeles,California,USA,Gas,2780,1
+2016-11-01,B1000,New York,New York,USA,Water,256575,0.05
+2016-11-01,B1000,New York,New York,USA,Electricity,49911,0.08
+2016-11-01,B1000,New York,New York,USA,Gas,4493,1
+2016-11-01,B1001,New York,New York,USA,Water,285423,0.05
+2016-11-01,B1001,New York,New York,USA,Electricity,34744,0.08
+2016-11-01,B1001,New York,New York,USA,Gas,4338,1
+2016-11-01,B1002,New York,New York,USA,Water,223897,0.05
+2016-11-01,B1002,New York,New York,USA,Electricity,40455,0.08
+2016-11-01,B1002,New York,New York,USA,Gas,3564,1
+2016-11-01,B1003,Los Angeles,California,USA,Water,220625,0.05
+2016-11-01,B1003,Los Angeles,California,USA,Electricity,34226,0.08
+2016-11-01,B1003,Los Angeles,California,USA,Gas,3418,1
+2016-11-01,B1004,Chicago,Illinois,USA,Water,373711,0.05
+2016-11-01,B1004,Chicago,Illinois,USA,Electricity,24183,0.08
+2016-11-01,B1004,Chicago,Illinois,USA,Gas,4532,1
+2016-11-01,B1005,Houston,Texas,USA,Water,494823,0.05
+2016-11-01,B1005,Houston,Texas,USA,Electricity,26004,0.08
+2016-11-01,B1005,Houston,Texas,USA,Gas,4515,1
+2016-11-01,B1006,Phoenix,Arizona,USA,Water,207534,0.05
+2016-11-01,B1006,Phoenix,Arizona,USA,Electricity,43201,0.08
+2016-11-01,B1006,Phoenix,Arizona,USA,Gas,3281,1
+2016-11-01,B1007,Chicago,Illinois,USA,Water,331406,0.05
+2016-11-01,B1007,Chicago,Illinois,USA,Electricity,29970,0.08
+2016-11-01,B1007,Chicago,Illinois,USA,Gas,4342,1
+2016-11-01,B1008,Chicago,Illinois,USA,Water,257234,0.05
+2016-11-01,B1008,Chicago,Illinois,USA,Electricity,45635,0.08
+2016-11-01,B1008,Chicago,Illinois,USA,Gas,2604,1
+2016-11-01,B1009,Los Angeles,California,USA,Water,246880,0.05
+2016-11-01,B1009,Los Angeles,California,USA,Electricity,34473,0.08
+2016-11-01,B1009,Los Angeles,California,USA,Gas,3858,1
+2016-11-01,B1010,Los Angeles,California,USA,Water,471008,0.05
+2016-11-01,B1010,Los Angeles,California,USA,Electricity,46082,0.08
+2016-11-01,B1010,Los Angeles,California,USA,Gas,3432,1
+2016-12-01,B1000,New York,New York,USA,Water,422766,0.05
+2016-12-01,B1000,New York,New York,USA,Electricity,40969,0.08
+2016-12-01,B1000,New York,New York,USA,Gas,3345,1
+2016-12-01,B1001,New York,New York,USA,Water,378691,0.05
+2016-12-01,B1001,New York,New York,USA,Electricity,31953,0.08
+2016-12-01,B1001,New York,New York,USA,Gas,5124,1
+2016-12-01,B1002,New York,New York,USA,Water,502349,0.05
+2016-12-01,B1002,New York,New York,USA,Electricity,52346,0.08
+2016-12-01,B1002,New York,New York,USA,Gas,4266,1
+2016-12-01,B1003,Los Angeles,California,USA,Water,229664,0.05
+2016-12-01,B1003,Los Angeles,California,USA,Electricity,49339,0.08
+2016-12-01,B1003,Los Angeles,California,USA,Gas,4911,1
+2016-12-01,B1004,Chicago,Illinois,USA,Water,402811,0.05
+2016-12-01,B1004,Chicago,Illinois,USA,Electricity,33358,0.08
+2016-12-01,B1004,Chicago,Illinois,USA,Gas,4541,1
+2016-12-01,B1005,Houston,Texas,USA,Water,293486,0.05
+2016-12-01,B1005,Houston,Texas,USA,Electricity,50913,0.08
+2016-12-01,B1005,Houston,Texas,USA,Gas,3943,1
+2016-12-01,B1006,Phoenix,Arizona,USA,Water,273201,0.05
+2016-12-01,B1006,Phoenix,Arizona,USA,Electricity,49197,0.08
+2016-12-01,B1006,Phoenix,Arizona,USA,Gas,4908,1
+2016-12-01,B1007,Chicago,Illinois,USA,Water,304827,0.05
+2016-12-01,B1007,Chicago,Illinois,USA,Electricity,31378,0.08
+2016-12-01,B1007,Chicago,Illinois,USA,Gas,2983,1
+2016-12-01,B1008,Chicago,Illinois,USA,Water,461694,0.05
+2016-12-01,B1008,Chicago,Illinois,USA,Electricity,40159,0.08
+2016-12-01,B1008,Chicago,Illinois,USA,Gas,3061,1
+2016-12-01,B1009,Los Angeles,California,USA,Water,268351,0.05
+2016-12-01,B1009,Los Angeles,California,USA,Electricity,44929,0.08
+2016-12-01,B1009,Los Angeles,California,USA,Gas,4895,1
+2016-12-01,B1010,Los Angeles,California,USA,Water,259351,0.05
+2016-12-01,B1010,Los Angeles,California,USA,Electricity,39290,0.08
+2016-12-01,B1010,Los Angeles,California,USA,Gas,4969,1
+2017-01-01,B1000,New York,New York,USA,Water,482551,0.055
+2017-01-01,B1000,New York,New York,USA,Electricity,46523,0.088
+2017-01-01,B1000,New York,New York,USA,Gas,4980,1.1
+2017-01-01,B1001,New York,New York,USA,Water,300012,0.055
+2017-01-01,B1001,New York,New York,USA,Electricity,38831,0.088
+2017-01-01,B1001,New York,New York,USA,Gas,4378,1.1
+2017-01-01,B1002,New York,New York,USA,Water,434737,0.055
+2017-01-01,B1002,New York,New York,USA,Electricity,37719,0.088
+2017-01-01,B1002,New York,New York,USA,Gas,3255,1.1
+2017-01-01,B1003,Los Angeles,California,USA,Water,406975,0.055
+2017-01-01,B1003,Los Angeles,California,USA,Electricity,29725,0.088
+2017-01-01,B1003,Los Angeles,California,USA,Gas,4631,1.1
+2017-01-01,B1004,Chicago,Illinois,USA,Water,374090,0.055
+2017-01-01,B1004,Chicago,Illinois,USA,Electricity,27874,0.088
+2017-01-01,B1004,Chicago,Illinois,USA,Gas,3721,1.1
+2017-01-01,B1005,Houston,Texas,USA,Water,404167,0.055
+2017-01-01,B1005,Houston,Texas,USA,Electricity,43667,0.088
+2017-01-01,B1005,Houston,Texas,USA,Gas,3853,1.1
+2017-01-01,B1006,Phoenix,Arizona,USA,Water,372226,0.055
+2017-01-01,B1006,Phoenix,Arizona,USA,Electricity,24166,0.088
+2017-01-01,B1006,Phoenix,Arizona,USA,Gas,3519,1.1
+2017-01-01,B1007,Chicago,Illinois,USA,Water,208584,0.055
+2017-01-01,B1007,Chicago,Illinois,USA,Electricity,29920,0.088
+2017-01-01,B1007,Chicago,Illinois,USA,Gas,3892,1.1
+2017-01-01,B1008,Chicago,Illinois,USA,Water,484163,0.055
+2017-01-01,B1008,Chicago,Illinois,USA,Electricity,37310,0.088
+2017-01-01,B1008,Chicago,Illinois,USA,Gas,5707,1.1
+2017-01-01,B1009,Los Angeles,California,USA,Water,422676,0.055
+2017-01-01,B1009,Los Angeles,California,USA,Electricity,50553,0.088
+2017-01-01,B1009,Los Angeles,California,USA,Gas,3520,1.1
+2017-01-01,B1010,Los Angeles,California,USA,Water,493306,0.055
+2017-01-01,B1010,Los Angeles,California,USA,Electricity,51554,0.088
+2017-01-01,B1010,Los Angeles,California,USA,Gas,3709,1.1
+2017-02-01,B1000,New York,New York,USA,Water,489625,0.055
+2017-02-01,B1000,New York,New York,USA,Electricity,32213,0.088
+2017-02-01,B1000,New York,New York,USA,Gas,5417,1.1
+2017-02-01,B1001,New York,New York,USA,Water,278812,0.055
+2017-02-01,B1001,New York,New York,USA,Electricity,29139,0.088
+2017-02-01,B1001,New York,New York,USA,Gas,4833,1.1
+2017-02-01,B1002,New York,New York,USA,Water,316167,0.055
+2017-02-01,B1002,New York,New York,USA,Electricity,44160,0.088
+2017-02-01,B1002,New York,New York,USA,Gas,4315,1.1
+2017-02-01,B1003,Los Angeles,California,USA,Water,242849,0.055
+2017-02-01,B1003,Los Angeles,California,USA,Electricity,48384,0.088
+2017-02-01,B1003,Los Angeles,California,USA,Gas,4062,1.1
+2017-02-01,B1004,Chicago,Illinois,USA,Water,348056,0.055
+2017-02-01,B1004,Chicago,Illinois,USA,Electricity,43858,0.088
+2017-02-01,B1004,Chicago,Illinois,USA,Gas,5300,1.1
+2017-02-01,B1005,Houston,Texas,USA,Water,453588,0.055
+2017-02-01,B1005,Houston,Texas,USA,Electricity,36411,0.088
+2017-02-01,B1005,Houston,Texas,USA,Gas,4340,1.1
+2017-02-01,B1006,Phoenix,Arizona,USA,Water,420459,0.055
+2017-02-01,B1006,Phoenix,Arizona,USA,Electricity,48369,0.088
+2017-02-01,B1006,Phoenix,Arizona,USA,Gas,3067,1.1
+2017-02-01,B1007,Chicago,Illinois,USA,Water,304603,0.055
+2017-02-01,B1007,Chicago,Illinois,USA,Electricity,37460,0.088
+2017-02-01,B1007,Chicago,Illinois,USA,Gas,5195,1.1
+2017-02-01,B1008,Chicago,Illinois,USA,Water,373059,0.055
+2017-02-01,B1008,Chicago,Illinois,USA,Electricity,39327,0.088
+2017-02-01,B1008,Chicago,Illinois,USA,Gas,5592,1.1
+2017-02-01,B1009,Los Angeles,California,USA,Water,267281,0.055
+2017-02-01,B1009,Los Angeles,California,USA,Electricity,48751,0.088
+2017-02-01,B1009,Los Angeles,California,USA,Gas,5486,1.1
+2017-02-01,B1010,Los Angeles,California,USA,Water,335188,0.055
+2017-02-01,B1010,Los Angeles,California,USA,Electricity,41299,0.088
+2017-02-01,B1010,Los Angeles,California,USA,Gas,5222,1.1
+2017-03-01,B1000,New York,New York,USA,Water,452145,0.055
+2017-03-01,B1000,New York,New York,USA,Electricity,42808,0.088
+2017-03-01,B1000,New York,New York,USA,Gas,3214,1.1
+2017-03-01,B1001,New York,New York,USA,Water,291541,0.055
+2017-03-01,B1001,New York,New York,USA,Electricity,33016,0.088
+2017-03-01,B1001,New York,New York,USA,Gas,4121,1.1
+2017-03-01,B1002,New York,New York,USA,Water,302640,0.055
+2017-03-01,B1002,New York,New York,USA,Electricity,25906,0.088
+2017-03-01,B1002,New York,New York,USA,Gas,4903,1.1
+2017-03-01,B1003,Los Angeles,California,USA,Water,278921,0.055
+2017-03-01,B1003,Los Angeles,California,USA,Electricity,50251,0.088
+2017-03-01,B1003,Los Angeles,California,USA,Gas,5203,1.1
+2017-03-01,B1004,Chicago,Illinois,USA,Water,299227,0.055
+2017-03-01,B1004,Chicago,Illinois,USA,Electricity,29326,0.088
+2017-03-01,B1004,Chicago,Illinois,USA,Gas,3741,1.1
+2017-03-01,B1005,Houston,Texas,USA,Water,258578,0.055
+2017-03-01,B1005,Houston,Texas,USA,Electricity,44384,0.088
+2017-03-01,B1005,Houston,Texas,USA,Gas,4314,1.1
+2017-03-01,B1006,Phoenix,Arizona,USA,Water,338161,0.055
+2017-03-01,B1006,Phoenix,Arizona,USA,Electricity,48107,0.088
+2017-03-01,B1006,Phoenix,Arizona,USA,Gas,3558,1.1
+2017-03-01,B1007,Chicago,Illinois,USA,Water,251457,0.055
+2017-03-01,B1007,Chicago,Illinois,USA,Electricity,44420,0.088
+2017-03-01,B1007,Chicago,Illinois,USA,Gas,3923,1.1
+2017-03-01,B1008,Chicago,Illinois,USA,Water,501733,0.055
+2017-03-01,B1008,Chicago,Illinois,USA,Electricity,29602,0.088
+2017-03-01,B1008,Chicago,Illinois,USA,Gas,3271,1.1
+2017-03-01,B1009,Los Angeles,California,USA,Water,247573,0.055
+2017-03-01,B1009,Los Angeles,California,USA,Electricity,47470,0.088
+2017-03-01,B1009,Los Angeles,California,USA,Gas,3368,1.1
+2017-03-01,B1010,Los Angeles,California,USA,Water,280484,0.055
+2017-03-01,B1010,Los Angeles,California,USA,Electricity,51962,0.088
+2017-03-01,B1010,Los Angeles,California,USA,Gas,3163,1.1
+2017-04-01,B1000,New York,New York,USA,Water,445895,0.055
+2017-04-01,B1000,New York,New York,USA,Electricity,26134,0.088
+2017-04-01,B1000,New York,New York,USA,Gas,4828,1.1
+2017-04-01,B1001,New York,New York,USA,Water,443616,0.055
+2017-04-01,B1001,New York,New York,USA,Electricity,37039,0.088
+2017-04-01,B1001,New York,New York,USA,Gas,3241,1.1
+2017-04-01,B1002,New York,New York,USA,Water,372563,0.055
+2017-04-01,B1002,New York,New York,USA,Electricity,39344,0.088
+2017-04-01,B1002,New York,New York,USA,Gas,4306,1.1
+2017-04-01,B1003,Los Angeles,California,USA,Water,483156,0.055
+2017-04-01,B1003,Los Angeles,California,USA,Electricity,41699,0.088
+2017-04-01,B1003,Los Angeles,California,USA,Gas,4891,1.1
+2017-04-01,B1004,Chicago,Illinois,USA,Water,480885,0.055
+2017-04-01,B1004,Chicago,Illinois,USA,Electricity,31622,0.088
+2017-04-01,B1004,Chicago,Illinois,USA,Gas,3592,1.1
+2017-04-01,B1005,Houston,Texas,USA,Water,492266,0.055
+2017-04-01,B1005,Houston,Texas,USA,Electricity,28065,0.088
+2017-04-01,B1005,Houston,Texas,USA,Gas,5576,1.1
+2017-04-01,B1006,Phoenix,Arizona,USA,Water,305817,0.055
+2017-04-01,B1006,Phoenix,Arizona,USA,Electricity,25474,0.088
+2017-04-01,B1006,Phoenix,Arizona,USA,Gas,3622,1.1
+2017-04-01,B1007,Chicago,Illinois,USA,Water,238050,0.055
+2017-04-01,B1007,Chicago,Illinois,USA,Electricity,52836,0.088
+2017-04-01,B1007,Chicago,Illinois,USA,Gas,3437,1.1
+2017-04-01,B1008,Chicago,Illinois,USA,Water,479701,0.055
+2017-04-01,B1008,Chicago,Illinois,USA,Electricity,42615,0.088
+2017-04-01,B1008,Chicago,Illinois,USA,Gas,4675,1.1
+2017-04-01,B1009,Los Angeles,California,USA,Water,436555,0.055
+2017-04-01,B1009,Los Angeles,California,USA,Electricity,47985,0.088
+2017-04-01,B1009,Los Angeles,California,USA,Gas,3003,1.1
+2017-04-01,B1010,Los Angeles,California,USA,Water,327550,0.055
+2017-04-01,B1010,Los Angeles,California,USA,Electricity,45645,0.088
+2017-04-01,B1010,Los Angeles,California,USA,Gas,4202,1.1
+2017-05-01,B1000,New York,New York,USA,Water,400459,0.055
+2017-05-01,B1000,New York,New York,USA,Electricity,42927,0.088
+2017-05-01,B1000,New York,New York,USA,Gas,4602,1.1
+2017-05-01,B1001,New York,New York,USA,Water,417942,0.055
+2017-05-01,B1001,New York,New York,USA,Electricity,38484,0.088
+2017-05-01,B1001,New York,New York,USA,Gas,5121,1.1
+2017-05-01,B1002,New York,New York,USA,Water,433014,0.055
+2017-05-01,B1002,New York,New York,USA,Electricity,41338,0.088
+2017-05-01,B1002,New York,New York,USA,Gas,5807,1.1
+2017-05-01,B1003,Los Angeles,California,USA,Water,428365,0.055
+2017-05-01,B1003,Los Angeles,California,USA,Electricity,24455,0.088
+2017-05-01,B1003,Los Angeles,California,USA,Gas,3593,1.1
+2017-05-01,B1004,Chicago,Illinois,USA,Water,239647,0.055
+2017-05-01,B1004,Chicago,Illinois,USA,Electricity,46809,0.088
+2017-05-01,B1004,Chicago,Illinois,USA,Gas,5356,1.1
+2017-05-01,B1005,Houston,Texas,USA,Water,386528,0.055
+2017-05-01,B1005,Houston,Texas,USA,Electricity,37586,0.088
+2017-05-01,B1005,Houston,Texas,USA,Gas,3003,1.1
+2017-05-01,B1006,Phoenix,Arizona,USA,Water,232887,0.055
+2017-05-01,B1006,Phoenix,Arizona,USA,Electricity,38616,0.088
+2017-05-01,B1006,Phoenix,Arizona,USA,Gas,5061,1.1
+2017-05-01,B1007,Chicago,Illinois,USA,Water,279506,0.055
+2017-05-01,B1007,Chicago,Illinois,USA,Electricity,44179,0.088
+2017-05-01,B1007,Chicago,Illinois,USA,Gas,5627,1.1
+2017-05-01,B1008,Chicago,Illinois,USA,Water,447839,0.055
+2017-05-01,B1008,Chicago,Illinois,USA,Electricity,35980,0.088
+2017-05-01,B1008,Chicago,Illinois,USA,Gas,4838,1.1
+2017-05-01,B1009,Los Angeles,California,USA,Water,475120,0.055
+2017-05-01,B1009,Los Angeles,California,USA,Electricity,41177,0.088
+2017-05-01,B1009,Los Angeles,California,USA,Gas,4054,1.1
+2017-05-01,B1010,Los Angeles,California,USA,Water,232731,0.055
+2017-05-01,B1010,Los Angeles,California,USA,Electricity,29558,0.088
+2017-05-01,B1010,Los Angeles,California,USA,Gas,3731,1.1
+2017-06-01,B1000,New York,New York,USA,Water,256415,0.055
+2017-06-01,B1000,New York,New York,USA,Electricity,26536,0.088
+2017-06-01,B1000,New York,New York,USA,Gas,5405,1.1
+2017-06-01,B1001,New York,New York,USA,Water,306248,0.055
+2017-06-01,B1001,New York,New York,USA,Electricity,48186,0.088
+2017-06-01,B1001,New York,New York,USA,Gas,4858,1.1
+2017-06-01,B1002,New York,New York,USA,Water,288169,0.055
+2017-06-01,B1002,New York,New York,USA,Electricity,43250,0.088
+2017-06-01,B1002,New York,New York,USA,Gas,5487,1.1
+2017-06-01,B1003,Los Angeles,California,USA,Water,373418,0.055
+2017-06-01,B1003,Los Angeles,California,USA,Electricity,43392,0.088
+2017-06-01,B1003,Los Angeles,California,USA,Gas,4364,1.1
+2017-06-01,B1004,Chicago,Illinois,USA,Water,248569,0.055
+2017-06-01,B1004,Chicago,Illinois,USA,Electricity,39142,0.088
+2017-06-01,B1004,Chicago,Illinois,USA,Gas,5611,1.1
+2017-06-01,B1005,Houston,Texas,USA,Water,377542,0.055
+2017-06-01,B1005,Houston,Texas,USA,Electricity,39261,0.088
+2017-06-01,B1005,Houston,Texas,USA,Gas,5087,1.1
+2017-06-01,B1006,Phoenix,Arizona,USA,Water,293433,0.055
+2017-06-01,B1006,Phoenix,Arizona,USA,Electricity,36082,0.088
+2017-06-01,B1006,Phoenix,Arizona,USA,Gas,5732,1.1
+2017-06-01,B1007,Chicago,Illinois,USA,Water,235658,0.055
+2017-06-01,B1007,Chicago,Illinois,USA,Electricity,47847,0.088
+2017-06-01,B1007,Chicago,Illinois,USA,Gas,4691,1.1
+2017-06-01,B1008,Chicago,Illinois,USA,Water,405014,0.055
+2017-06-01,B1008,Chicago,Illinois,USA,Electricity,53347,0.088
+2017-06-01,B1008,Chicago,Illinois,USA,Gas,5868,1.1
+2017-06-01,B1009,Los Angeles,California,USA,Water,263134,0.055
+2017-06-01,B1009,Los Angeles,California,USA,Electricity,27128,0.088
+2017-06-01,B1009,Los Angeles,California,USA,Gas,3534,1.1
+2017-06-01,B1010,Los Angeles,California,USA,Water,448821,0.055
+2017-06-01,B1010,Los Angeles,California,USA,Electricity,37972,0.088
+2017-06-01,B1010,Los Angeles,California,USA,Gas,5498,1.1
+2017-07-01,B1000,New York,New York,USA,Water,378241,0.055
+2017-07-01,B1000,New York,New York,USA,Electricity,25116,0.088
+2017-07-01,B1000,New York,New York,USA,Gas,4404,1.1
+2017-07-01,B1001,New York,New York,USA,Water,327286,0.055
+2017-07-01,B1001,New York,New York,USA,Electricity,26522,0.088
+2017-07-01,B1001,New York,New York,USA,Gas,4859,1.1
+2017-07-01,B1002,New York,New York,USA,Water,416264,0.055
+2017-07-01,B1002,New York,New York,USA,Electricity,25068,0.088
+2017-07-01,B1002,New York,New York,USA,Gas,5473,1.1
+2017-07-01,B1003,Los Angeles,California,USA,Water,223103,0.055
+2017-07-01,B1003,Los Angeles,California,USA,Electricity,35724,0.088
+2017-07-01,B1003,Los Angeles,California,USA,Gas,6009,1.1
+2017-07-01,B1004,Chicago,Illinois,USA,Water,244114,0.055
+2017-07-01,B1004,Chicago,Illinois,USA,Electricity,40158,0.088
+2017-07-01,B1004,Chicago,Illinois,USA,Gas,4781,1.1
+2017-07-01,B1005,Houston,Texas,USA,Water,314616,0.055
+2017-07-01,B1005,Houston,Texas,USA,Electricity,24991,0.088
+2017-07-01,B1005,Houston,Texas,USA,Gas,5322,1.1
+2017-07-01,B1006,Phoenix,Arizona,USA,Water,498064,0.055
+2017-07-01,B1006,Phoenix,Arizona,USA,Electricity,39088,0.088
+2017-07-01,B1006,Phoenix,Arizona,USA,Gas,4529,1.1
+2017-07-01,B1007,Chicago,Illinois,USA,Water,459377,0.055
+2017-07-01,B1007,Chicago,Illinois,USA,Electricity,28915,0.088
+2017-07-01,B1007,Chicago,Illinois,USA,Gas,4855,1.1
+2017-07-01,B1008,Chicago,Illinois,USA,Water,405549,0.055
+2017-07-01,B1008,Chicago,Illinois,USA,Electricity,46296,0.088
+2017-07-01,B1008,Chicago,Illinois,USA,Gas,3997,1.1
+2017-07-01,B1009,Los Angeles,California,USA,Water,404183,0.055
+2017-07-01,B1009,Los Angeles,California,USA,Electricity,33902,0.088
+2017-07-01,B1009,Los Angeles,California,USA,Gas,3600,1.1
+2017-07-01,B1010,Los Angeles,California,USA,Water,386113,0.055
+2017-07-01,B1010,Los Angeles,California,USA,Electricity,48935,0.088
+2017-07-01,B1010,Los Angeles,California,USA,Gas,3282,1.1
+2017-08-01,B1000,New York,New York,USA,Water,397450,0.055
+2017-08-01,B1000,New York,New York,USA,Electricity,31581,0.088
+2017-08-01,B1000,New York,New York,USA,Gas,3636,1.1
+2017-08-01,B1001,New York,New York,USA,Water,304031,0.055
+2017-08-01,B1001,New York,New York,USA,Electricity,39229,0.088
+2017-08-01,B1001,New York,New York,USA,Gas,3103,1.1
+2017-08-01,B1002,New York,New York,USA,Water,434191,0.055
+2017-08-01,B1002,New York,New York,USA,Electricity,40757,0.088
+2017-08-01,B1002,New York,New York,USA,Gas,4832,1.1
+2017-08-01,B1003,Los Angeles,California,USA,Water,215402,0.055
+2017-08-01,B1003,Los Angeles,California,USA,Electricity,28075,0.088
+2017-08-01,B1003,Los Angeles,California,USA,Gas,4456,1.1
+2017-08-01,B1004,Chicago,Illinois,USA,Water,305006,0.055
+2017-08-01,B1004,Chicago,Illinois,USA,Electricity,49354,0.088
+2017-08-01,B1004,Chicago,Illinois,USA,Gas,4612,1.1
+2017-08-01,B1005,Houston,Texas,USA,Water,485495,0.055
+2017-08-01,B1005,Houston,Texas,USA,Electricity,36467,0.088
+2017-08-01,B1005,Houston,Texas,USA,Gas,3186,1.1
+2017-08-01,B1006,Phoenix,Arizona,USA,Water,399785,0.055
+2017-08-01,B1006,Phoenix,Arizona,USA,Electricity,29888,0.088
+2017-08-01,B1006,Phoenix,Arizona,USA,Gas,3447,1.1
+2017-08-01,B1007,Chicago,Illinois,USA,Water,263031,0.055
+2017-08-01,B1007,Chicago,Illinois,USA,Electricity,53798,0.088
+2017-08-01,B1007,Chicago,Illinois,USA,Gas,4504,1.1
+2017-08-01,B1008,Chicago,Illinois,USA,Water,399613,0.055
+2017-08-01,B1008,Chicago,Illinois,USA,Electricity,47786,0.088
+2017-08-01,B1008,Chicago,Illinois,USA,Gas,5419,1.1
+2017-08-01,B1009,Los Angeles,California,USA,Water,222840,0.055
+2017-08-01,B1009,Los Angeles,California,USA,Electricity,52952,0.088
+2017-08-01,B1009,Los Angeles,California,USA,Gas,3647,1.1
+2017-08-01,B1010,Los Angeles,California,USA,Water,421375,0.055
+2017-08-01,B1010,Los Angeles,California,USA,Electricity,34192,0.088
+2017-08-01,B1010,Los Angeles,California,USA,Gas,3944,1.1
+2017-09-01,B1000,New York,New York,USA,Water,382610,0.055
+2017-09-01,B1000,New York,New York,USA,Electricity,45488,0.088
+2017-09-01,B1000,New York,New York,USA,Gas,5258,1.1
+2017-09-01,B1001,New York,New York,USA,Water,327447,0.055
+2017-09-01,B1001,New York,New York,USA,Electricity,53676,0.088
+2017-09-01,B1001,New York,New York,USA,Gas,5504,1.1
+2017-09-01,B1002,New York,New York,USA,Water,231127,0.055
+2017-09-01,B1002,New York,New York,USA,Electricity,29900,0.088
+2017-09-01,B1002,New York,New York,USA,Gas,4384,1.1
+2017-09-01,B1003,Los Angeles,California,USA,Water,416047,0.055
+2017-09-01,B1003,Los Angeles,California,USA,Electricity,53016,0.088
+2017-09-01,B1003,Los Angeles,California,USA,Gas,4334,1.1
+2017-09-01,B1004,Chicago,Illinois,USA,Water,428191,0.055
+2017-09-01,B1004,Chicago,Illinois,USA,Electricity,47199,0.088
+2017-09-01,B1004,Chicago,Illinois,USA,Gas,6054,1.1
+2017-09-01,B1005,Houston,Texas,USA,Water,242689,0.055
+2017-09-01,B1005,Houston,Texas,USA,Electricity,42843,0.088
+2017-09-01,B1005,Houston,Texas,USA,Gas,3138,1.1
+2017-09-01,B1006,Phoenix,Arizona,USA,Water,361825,0.055
+2017-09-01,B1006,Phoenix,Arizona,USA,Electricity,50274,0.088
+2017-09-01,B1006,Phoenix,Arizona,USA,Gas,3488,1.1
+2017-09-01,B1007,Chicago,Illinois,USA,Water,503577,0.055
+2017-09-01,B1007,Chicago,Illinois,USA,Electricity,50791,0.088
+2017-09-01,B1007,Chicago,Illinois,USA,Gas,5944,1.1
+2017-09-01,B1008,Chicago,Illinois,USA,Water,256625,0.055
+2017-09-01,B1008,Chicago,Illinois,USA,Electricity,53255,0.088
+2017-09-01,B1008,Chicago,Illinois,USA,Gas,5351,1.1
+2017-09-01,B1009,Los Angeles,California,USA,Water,421940,0.055
+2017-09-01,B1009,Los Angeles,California,USA,Electricity,53855,0.088
+2017-09-01,B1009,Los Angeles,California,USA,Gas,4575,1.1
+2017-09-01,B1010,Los Angeles,California,USA,Water,400656,0.055
+2017-09-01,B1010,Los Angeles,California,USA,Electricity,28360,0.088
+2017-09-01,B1010,Los Angeles,California,USA,Gas,4460,1.1
+2017-10-01,B1000,New York,New York,USA,Water,265102,0.055
+2017-10-01,B1000,New York,New York,USA,Electricity,30711,0.088
+2017-10-01,B1000,New York,New York,USA,Gas,5460,1.1
+2017-10-01,B1001,New York,New York,USA,Water,493238,0.055
+2017-10-01,B1001,New York,New York,USA,Electricity,50511,0.088
+2017-10-01,B1001,New York,New York,USA,Gas,4098,1.1
+2017-10-01,B1002,New York,New York,USA,Water,500052,0.055
+2017-10-01,B1002,New York,New York,USA,Electricity,27283,0.088
+2017-10-01,B1002,New York,New York,USA,Gas,5135,1.1
+2017-10-01,B1003,Los Angeles,California,USA,Water,497034,0.055
+2017-10-01,B1003,Los Angeles,California,USA,Electricity,49526,0.088
+2017-10-01,B1003,Los Angeles,California,USA,Gas,5633,1.1
+2017-10-01,B1004,Chicago,Illinois,USA,Water,448594,0.055
+2017-10-01,B1004,Chicago,Illinois,USA,Electricity,32220,0.088
+2017-10-01,B1004,Chicago,Illinois,USA,Gas,3202,1.1
+2017-10-01,B1005,Houston,Texas,USA,Water,439347,0.055
+2017-10-01,B1005,Houston,Texas,USA,Electricity,40119,0.088
+2017-10-01,B1005,Houston,Texas,USA,Gas,5624,1.1
+2017-10-01,B1006,Phoenix,Arizona,USA,Water,444025,0.055
+2017-10-01,B1006,Phoenix,Arizona,USA,Electricity,32346,0.088
+2017-10-01,B1006,Phoenix,Arizona,USA,Gas,6053,1.1
+2017-10-01,B1007,Chicago,Illinois,USA,Water,226282,0.055
+2017-10-01,B1007,Chicago,Illinois,USA,Electricity,54628,0.088
+2017-10-01,B1007,Chicago,Illinois,USA,Gas,4216,1.1
+2017-10-01,B1008,Chicago,Illinois,USA,Water,252302,0.055
+2017-10-01,B1008,Chicago,Illinois,USA,Electricity,53463,0.088
+2017-10-01,B1008,Chicago,Illinois,USA,Gas,3767,1.1
+2017-10-01,B1009,Los Angeles,California,USA,Water,230359,0.055
+2017-10-01,B1009,Los Angeles,California,USA,Electricity,30591,0.088
+2017-10-01,B1009,Los Angeles,California,USA,Gas,5541,1.1
+2017-10-01,B1010,Los Angeles,California,USA,Water,223858,0.055
+2017-10-01,B1010,Los Angeles,California,USA,Electricity,39172,0.088
+2017-10-01,B1010,Los Angeles,California,USA,Gas,4542,1.1
+2017-11-01,B1000,New York,New York,USA,Water,451139,0.055
+2017-11-01,B1000,New York,New York,USA,Electricity,32487,0.088
+2017-11-01,B1000,New York,New York,USA,Gas,4232,1.1
+2017-11-01,B1001,New York,New York,USA,Water,463735,0.055
+2017-11-01,B1001,New York,New York,USA,Electricity,50832,0.088
+2017-11-01,B1001,New York,New York,USA,Gas,4849,1.1
+2017-11-01,B1002,New York,New York,USA,Water,287182,0.055
+2017-11-01,B1002,New York,New York,USA,Electricity,52451,0.088
+2017-11-01,B1002,New York,New York,USA,Gas,4452,1.1
+2017-11-01,B1003,Los Angeles,California,USA,Water,477842,0.055
+2017-11-01,B1003,Los Angeles,California,USA,Electricity,37016,0.088
+2017-11-01,B1003,Los Angeles,California,USA,Gas,3830,1.1
+2017-11-01,B1004,Chicago,Illinois,USA,Water,479899,0.055
+2017-11-01,B1004,Chicago,Illinois,USA,Electricity,44109,0.088
+2017-11-01,B1004,Chicago,Illinois,USA,Gas,6124,1.1
+2017-11-01,B1005,Houston,Texas,USA,Water,297837,0.055
+2017-11-01,B1005,Houston,Texas,USA,Electricity,51408,0.088
+2017-11-01,B1005,Houston,Texas,USA,Gas,6123,1.1
+2017-11-01,B1006,Phoenix,Arizona,USA,Water,206565,0.055
+2017-11-01,B1006,Phoenix,Arizona,USA,Electricity,31765,0.088
+2017-11-01,B1006,Phoenix,Arizona,USA,Gas,5479,1.1
+2017-11-01,B1007,Chicago,Illinois,USA,Water,315269,0.055
+2017-11-01,B1007,Chicago,Illinois,USA,Electricity,35281,0.088
+2017-11-01,B1007,Chicago,Illinois,USA,Gas,3585,1.1
+2017-11-01,B1008,Chicago,Illinois,USA,Water,422862,0.055
+2017-11-01,B1008,Chicago,Illinois,USA,Electricity,53349,0.088
+2017-11-01,B1008,Chicago,Illinois,USA,Gas,5399,1.1
+2017-11-01,B1009,Los Angeles,California,USA,Water,402553,0.055
+2017-11-01,B1009,Los Angeles,California,USA,Electricity,35793,0.088
+2017-11-01,B1009,Los Angeles,California,USA,Gas,3296,1.1
+2017-11-01,B1010,Los Angeles,California,USA,Water,488702,0.055
+2017-11-01,B1010,Los Angeles,California,USA,Electricity,34123,0.088
+2017-11-01,B1010,Los Angeles,California,USA,Gas,5055,1.1
+2017-12-01,B1000,New York,New York,USA,Water,408382,0.055
+2017-12-01,B1000,New York,New York,USA,Electricity,48235,0.088
+2017-12-01,B1000,New York,New York,USA,Gas,4382,1.1
+2017-12-01,B1001,New York,New York,USA,Water,467255,0.055
+2017-12-01,B1001,New York,New York,USA,Electricity,29308,0.088
+2017-12-01,B1001,New York,New York,USA,Gas,4630,1.1
+2017-12-01,B1002,New York,New York,USA,Water,212446,0.055
+2017-12-01,B1002,New York,New York,USA,Electricity,34246,0.088
+2017-12-01,B1002,New York,New York,USA,Gas,5066,1.1
+2017-12-01,B1003,Los Angeles,California,USA,Water,470151,0.055
+2017-12-01,B1003,Los Angeles,California,USA,Electricity,45344,0.088
+2017-12-01,B1003,Los Angeles,California,USA,Gas,3858,1.1
+2017-12-01,B1004,Chicago,Illinois,USA,Water,491868,0.055
+2017-12-01,B1004,Chicago,Illinois,USA,Electricity,41297,0.088
+2017-12-01,B1004,Chicago,Illinois,USA,Gas,4335,1.1
+2017-12-01,B1005,Houston,Texas,USA,Water,364166,0.055
+2017-12-01,B1005,Houston,Texas,USA,Electricity,36509,0.088
+2017-12-01,B1005,Houston,Texas,USA,Gas,4282,1.1
+2017-12-01,B1006,Phoenix,Arizona,USA,Water,362301,0.055
+2017-12-01,B1006,Phoenix,Arizona,USA,Electricity,43152,0.088
+2017-12-01,B1006,Phoenix,Arizona,USA,Gas,3663,1.1
+2017-12-01,B1007,Chicago,Illinois,USA,Water,494593,0.055
+2017-12-01,B1007,Chicago,Illinois,USA,Electricity,26755,0.088
+2017-12-01,B1007,Chicago,Illinois,USA,Gas,5415,1.1
+2017-12-01,B1008,Chicago,Illinois,USA,Water,342740,0.055
+2017-12-01,B1008,Chicago,Illinois,USA,Electricity,27683,0.088
+2017-12-01,B1008,Chicago,Illinois,USA,Gas,4881,1.1
+2017-12-01,B1009,Los Angeles,California,USA,Water,216605,0.055
+2017-12-01,B1009,Los Angeles,California,USA,Electricity,50862,0.088
+2017-12-01,B1009,Los Angeles,California,USA,Gas,4171,1.1
+2017-12-01,B1010,Los Angeles,California,USA,Water,251507,0.055
+2017-12-01,B1010,Los Angeles,California,USA,Electricity,37589,0.088
+2017-12-01,B1010,Los Angeles,California,USA,Gas,3666,1.1
+2018-01-01,B1000,New York,New York,USA,Water,464783,0.0605
+2018-01-01,B1000,New York,New York,USA,Electricity,55215,0.0968
+2018-01-01,B1000,New York,New York,USA,Gas,4309,1.21
+2018-01-01,B1001,New York,New York,USA,Water,456404,0.0605
+2018-01-01,B1001,New York,New York,USA,Electricity,53903,0.0968
+2018-01-01,B1001,New York,New York,USA,Gas,4130,1.21
+2018-01-01,B1002,New York,New York,USA,Water,207228,0.0605
+2018-01-01,B1002,New York,New York,USA,Electricity,32793,0.0968
+2018-01-01,B1002,New York,New York,USA,Gas,4910,1.21
+2018-01-01,B1003,Los Angeles,California,USA,Water,207659,0.0605
+2018-01-01,B1003,Los Angeles,California,USA,Electricity,34506,0.0968
+2018-01-01,B1003,Los Angeles,California,USA,Gas,3381,1.21
+2018-01-01,B1004,Chicago,Illinois,USA,Water,286626,0.0605
+2018-01-01,B1004,Chicago,Illinois,USA,Electricity,54471,0.0968
+2018-01-01,B1004,Chicago,Illinois,USA,Gas,5335,1.21
+2018-01-01,B1005,Houston,Texas,USA,Water,282898,0.0605
+2018-01-01,B1005,Houston,Texas,USA,Electricity,28800,0.0968
+2018-01-01,B1005,Houston,Texas,USA,Gas,5016,1.21
+2018-01-01,B1006,Phoenix,Arizona,USA,Water,409029,0.0605
+2018-01-01,B1006,Phoenix,Arizona,USA,Electricity,25906,0.0968
+2018-01-01,B1006,Phoenix,Arizona,USA,Gas,3496,1.21
+2018-01-01,B1007,Chicago,Illinois,USA,Water,324668,0.0605
+2018-01-01,B1007,Chicago,Illinois,USA,Electricity,32620,0.0968
+2018-01-01,B1007,Chicago,Illinois,USA,Gas,4997,1.21
+2018-01-01,B1008,Chicago,Illinois,USA,Water,489189,0.0605
+2018-01-01,B1008,Chicago,Illinois,USA,Electricity,44220,0.0968
+2018-01-01,B1008,Chicago,Illinois,USA,Gas,5442,1.21
+2018-01-01,B1009,Los Angeles,California,USA,Water,390659,0.0605
+2018-01-01,B1009,Los Angeles,California,USA,Electricity,26116,0.0968
+2018-01-01,B1009,Los Angeles,California,USA,Gas,6262,1.21
+2018-01-01,B1010,Los Angeles,California,USA,Water,351476,0.0605
+2018-01-01,B1010,Los Angeles,California,USA,Electricity,43525,0.0968
+2018-01-01,B1010,Los Angeles,California,USA,Gas,5149,1.21
+2018-02-01,B1000,New York,New York,USA,Water,470804,0.0605
+2018-02-01,B1000,New York,New York,USA,Electricity,28002,0.0968
+2018-02-01,B1000,New York,New York,USA,Gas,5705,1.21
+2018-02-01,B1001,New York,New York,USA,Water,444563,0.0605
+2018-02-01,B1001,New York,New York,USA,Electricity,38619,0.0968
+2018-02-01,B1001,New York,New York,USA,Gas,5406,1.21
+2018-02-01,B1002,New York,New York,USA,Water,295720,0.0605
+2018-02-01,B1002,New York,New York,USA,Electricity,26153,0.0968
+2018-02-01,B1002,New York,New York,USA,Gas,3550,1.21
+2018-02-01,B1003,Los Angeles,California,USA,Water,359388,0.0605
+2018-02-01,B1003,Los Angeles,California,USA,Electricity,54179,0.0968
+2018-02-01,B1003,Los Angeles,California,USA,Gas,4668,1.21
+2018-02-01,B1004,Chicago,Illinois,USA,Water,448275,0.0605
+2018-02-01,B1004,Chicago,Illinois,USA,Electricity,43190,0.0968
+2018-02-01,B1004,Chicago,Illinois,USA,Gas,6334,1.21
+2018-02-01,B1005,Houston,Texas,USA,Water,489440,0.0605
+2018-02-01,B1005,Houston,Texas,USA,Electricity,45556,0.0968
+2018-02-01,B1005,Houston,Texas,USA,Gas,5656,1.21
+2018-02-01,B1006,Phoenix,Arizona,USA,Water,444066,0.0605
+2018-02-01,B1006,Phoenix,Arizona,USA,Electricity,46082,0.0968
+2018-02-01,B1006,Phoenix,Arizona,USA,Gas,4524,1.21
+2018-02-01,B1007,Chicago,Illinois,USA,Water,290750,0.0605
+2018-02-01,B1007,Chicago,Illinois,USA,Electricity,47509,0.0968
+2018-02-01,B1007,Chicago,Illinois,USA,Gas,3947,1.21
+2018-02-01,B1008,Chicago,Illinois,USA,Water,474855,0.0605
+2018-02-01,B1008,Chicago,Illinois,USA,Electricity,37918,0.0968
+2018-02-01,B1008,Chicago,Illinois,USA,Gas,4553,1.21
+2018-02-01,B1009,Los Angeles,California,USA,Water,466199,0.0605
+2018-02-01,B1009,Los Angeles,California,USA,Electricity,44258,0.0968
+2018-02-01,B1009,Los Angeles,California,USA,Gas,4803,1.21
+2018-02-01,B1010,Los Angeles,California,USA,Water,306692,0.0605
+2018-02-01,B1010,Los Angeles,California,USA,Electricity,38885,0.0968
+2018-02-01,B1010,Los Angeles,California,USA,Gas,5249,1.21
+2018-03-01,B1000,New York,New York,USA,Water,493939,0.0605
+2018-03-01,B1000,New York,New York,USA,Electricity,37293,0.0968
+2018-03-01,B1000,New York,New York,USA,Gas,5989,1.21
+2018-03-01,B1001,New York,New York,USA,Water,260066,0.0605
+2018-03-01,B1001,New York,New York,USA,Electricity,53365,0.0968
+2018-03-01,B1001,New York,New York,USA,Gas,5347,1.21
+2018-03-01,B1002,New York,New York,USA,Water,348507,0.0605
+2018-03-01,B1002,New York,New York,USA,Electricity,45601,0.0968
+2018-03-01,B1002,New York,New York,USA,Gas,5400,1.21
+2018-03-01,B1003,Los Angeles,California,USA,Water,468032,0.0605
+2018-03-01,B1003,Los Angeles,California,USA,Electricity,28289,0.0968
+2018-03-01,B1003,Los Angeles,California,USA,Gas,4207,1.21
+2018-03-01,B1004,Chicago,Illinois,USA,Water,447729,0.0605
+2018-03-01,B1004,Chicago,Illinois,USA,Electricity,50335,0.0968
+2018-03-01,B1004,Chicago,Illinois,USA,Gas,6135,1.21
+2018-03-01,B1005,Houston,Texas,USA,Water,369648,0.0605
+2018-03-01,B1005,Houston,Texas,USA,Electricity,26230,0.0968
+2018-03-01,B1005,Houston,Texas,USA,Gas,4631,1.21
+2018-03-01,B1006,Phoenix,Arizona,USA,Water,430897,0.0605
+2018-03-01,B1006,Phoenix,Arizona,USA,Electricity,27402,0.0968
+2018-03-01,B1006,Phoenix,Arizona,USA,Gas,5062,1.21
+2018-03-01,B1007,Chicago,Illinois,USA,Water,262459,0.0605
+2018-03-01,B1007,Chicago,Illinois,USA,Electricity,28042,0.0968
+2018-03-01,B1007,Chicago,Illinois,USA,Gas,5203,1.21
+2018-03-01,B1008,Chicago,Illinois,USA,Water,258158,0.0605
+2018-03-01,B1008,Chicago,Illinois,USA,Electricity,34519,0.0968
+2018-03-01,B1008,Chicago,Illinois,USA,Gas,5548,1.21
+2018-03-01,B1009,Los Angeles,California,USA,Water,246123,0.0605
+2018-03-01,B1009,Los Angeles,California,USA,Electricity,42440,0.0968
+2018-03-01,B1009,Los Angeles,California,USA,Gas,5522,1.21
+2018-03-01,B1010,Los Angeles,California,USA,Water,234598,0.0605
+2018-03-01,B1010,Los Angeles,California,USA,Electricity,53252,0.0968
+2018-03-01,B1010,Los Angeles,California,USA,Gas,4577,1.21
+2018-04-01,B1000,New York,New York,USA,Water,486795,0.0605
+2018-04-01,B1000,New York,New York,USA,Electricity,38407,0.0968
+2018-04-01,B1000,New York,New York,USA,Gas,6387,1.21
+2018-04-01,B1001,New York,New York,USA,Water,338447,0.0605
+2018-04-01,B1001,New York,New York,USA,Electricity,38527,0.0968
+2018-04-01,B1001,New York,New York,USA,Gas,5671,1.21
+2018-04-01,B1002,New York,New York,USA,Water,327042,0.0605
+2018-04-01,B1002,New York,New York,USA,Electricity,53935,0.0968
+2018-04-01,B1002,New York,New York,USA,Gas,4717,1.21
+2018-04-01,B1003,Los Angeles,California,USA,Water,364306,0.0605
+2018-04-01,B1003,Los Angeles,California,USA,Electricity,49276,0.0968
+2018-04-01,B1003,Los Angeles,California,USA,Gas,5636,1.21
+2018-04-01,B1004,Chicago,Illinois,USA,Water,426801,0.0605
+2018-04-01,B1004,Chicago,Illinois,USA,Electricity,37271,0.0968
+2018-04-01,B1004,Chicago,Illinois,USA,Gas,5766,1.21
+2018-04-01,B1005,Houston,Texas,USA,Water,424005,0.0605
+2018-04-01,B1005,Houston,Texas,USA,Electricity,44684,0.0968
+2018-04-01,B1005,Houston,Texas,USA,Gas,4380,1.21
+2018-04-01,B1006,Phoenix,Arizona,USA,Water,505586,0.0605
+2018-04-01,B1006,Phoenix,Arizona,USA,Electricity,40545,0.0968
+2018-04-01,B1006,Phoenix,Arizona,USA,Gas,5985,1.21
+2018-04-01,B1007,Chicago,Illinois,USA,Water,365468,0.0605
+2018-04-01,B1007,Chicago,Illinois,USA,Electricity,52106,0.0968
+2018-04-01,B1007,Chicago,Illinois,USA,Gas,3872,1.21
+2018-04-01,B1008,Chicago,Illinois,USA,Water,505186,0.0605
+2018-04-01,B1008,Chicago,Illinois,USA,Electricity,42330,0.0968
+2018-04-01,B1008,Chicago,Illinois,USA,Gas,6195,1.21
+2018-04-01,B1009,Los Angeles,California,USA,Water,478824,0.0605
+2018-04-01,B1009,Los Angeles,California,USA,Electricity,45451,0.0968
+2018-04-01,B1009,Los Angeles,California,USA,Gas,4136,1.21
+2018-04-01,B1010,Los Angeles,California,USA,Water,271351,0.0605
+2018-04-01,B1010,Los Angeles,California,USA,Electricity,53800,0.0968
+2018-04-01,B1010,Los Angeles,California,USA,Gas,5856,1.21
+2018-05-01,B1000,New York,New York,USA,Water,241272,0.0605
+2018-05-01,B1000,New York,New York,USA,Electricity,35861,0.0968
+2018-05-01,B1000,New York,New York,USA,Gas,5323,1.21
+2018-05-01,B1001,New York,New York,USA,Water,353209,0.0605
+2018-05-01,B1001,New York,New York,USA,Electricity,49063,0.0968
+2018-05-01,B1001,New York,New York,USA,Gas,6062,1.21
+2018-05-01,B1002,New York,New York,USA,Water,427516,0.0605
+2018-05-01,B1002,New York,New York,USA,Electricity,26348,0.0968
+2018-05-01,B1002,New York,New York,USA,Gas,5400,1.21
+2018-05-01,B1003,Los Angeles,California,USA,Water,488363,0.0605
+2018-05-01,B1003,Los Angeles,California,USA,Electricity,29206,0.0968
+2018-05-01,B1003,Los Angeles,California,USA,Gas,5048,1.21
+2018-05-01,B1004,Chicago,Illinois,USA,Water,218038,0.0605
+2018-05-01,B1004,Chicago,Illinois,USA,Electricity,48891,0.0968
+2018-05-01,B1004,Chicago,Illinois,USA,Gas,4011,1.21
+2018-05-01,B1005,Houston,Texas,USA,Water,374627,0.0605
+2018-05-01,B1005,Houston,Texas,USA,Electricity,39937,0.0968
+2018-05-01,B1005,Houston,Texas,USA,Gas,3581,1.21
+2018-05-01,B1006,Phoenix,Arizona,USA,Water,250198,0.0605
+2018-05-01,B1006,Phoenix,Arizona,USA,Electricity,32336,0.0968
+2018-05-01,B1006,Phoenix,Arizona,USA,Gas,4760,1.21
+2018-05-01,B1007,Chicago,Illinois,USA,Water,500394,0.0605
+2018-05-01,B1007,Chicago,Illinois,USA,Electricity,30591,0.0968
+2018-05-01,B1007,Chicago,Illinois,USA,Gas,5355,1.21
+2018-05-01,B1008,Chicago,Illinois,USA,Water,499220,0.0605
+2018-05-01,B1008,Chicago,Illinois,USA,Electricity,43927,0.0968
+2018-05-01,B1008,Chicago,Illinois,USA,Gas,5258,1.21
+2018-05-01,B1009,Los Angeles,California,USA,Water,272987,0.0605
+2018-05-01,B1009,Los Angeles,California,USA,Electricity,50930,0.0968
+2018-05-01,B1009,Los Angeles,California,USA,Gas,5073,1.21
+2018-05-01,B1010,Los Angeles,California,USA,Water,226717,0.0605
+2018-05-01,B1010,Los Angeles,California,USA,Electricity,49713,0.0968
+2018-05-01,B1010,Los Angeles,California,USA,Gas,4774,1.21
+2018-06-01,B1000,New York,New York,USA,Water,420627,0.0605
+2018-06-01,B1000,New York,New York,USA,Electricity,55665,0.0968
+2018-06-01,B1000,New York,New York,USA,Gas,6358,1.21
+2018-06-01,B1001,New York,New York,USA,Water,491078,0.0605
+2018-06-01,B1001,New York,New York,USA,Electricity,37307,0.0968
+2018-06-01,B1001,New York,New York,USA,Gas,5159,1.21
+2018-06-01,B1002,New York,New York,USA,Water,332617,0.0605
+2018-06-01,B1002,New York,New York,USA,Electricity,47224,0.0968
+2018-06-01,B1002,New York,New York,USA,Gas,5071,1.21
+2018-06-01,B1003,Los Angeles,California,USA,Water,387708,0.0605
+2018-06-01,B1003,Los Angeles,California,USA,Electricity,51817,0.0968
+2018-06-01,B1003,Los Angeles,California,USA,Gas,4664,1.21
+2018-06-01,B1004,Chicago,Illinois,USA,Water,220166,0.0605
+2018-06-01,B1004,Chicago,Illinois,USA,Electricity,28002,0.0968
+2018-06-01,B1004,Chicago,Illinois,USA,Gas,4294,1.21
+2018-06-01,B1005,Houston,Texas,USA,Water,426479,0.0605
+2018-06-01,B1005,Houston,Texas,USA,Electricity,51301,0.0968
+2018-06-01,B1005,Houston,Texas,USA,Gas,5146,1.21
+2018-06-01,B1006,Phoenix,Arizona,USA,Water,226591,0.0605
+2018-06-01,B1006,Phoenix,Arizona,USA,Electricity,55774,0.0968
+2018-06-01,B1006,Phoenix,Arizona,USA,Gas,3909,1.21
+2018-06-01,B1007,Chicago,Illinois,USA,Water,218795,0.0605
+2018-06-01,B1007,Chicago,Illinois,USA,Electricity,51116,0.0968
+2018-06-01,B1007,Chicago,Illinois,USA,Gas,5664,1.21
+2018-06-01,B1008,Chicago,Illinois,USA,Water,489487,0.0605
+2018-06-01,B1008,Chicago,Illinois,USA,Electricity,30838,0.0968
+2018-06-01,B1008,Chicago,Illinois,USA,Gas,4076,1.21
+2018-06-01,B1009,Los Angeles,California,USA,Water,282075,0.0605
+2018-06-01,B1009,Los Angeles,California,USA,Electricity,32325,0.0968
+2018-06-01,B1009,Los Angeles,California,USA,Gas,4868,1.21
+2018-06-01,B1010,Los Angeles,California,USA,Water,505757,0.0605
+2018-06-01,B1010,Los Angeles,California,USA,Electricity,54232,0.0968
+2018-06-01,B1010,Los Angeles,California,USA,Gas,3894,1.21
+2018-07-01,B1000,New York,New York,USA,Water,308872,0.0605
+2018-07-01,B1000,New York,New York,USA,Electricity,27574,0.0968
+2018-07-01,B1000,New York,New York,USA,Gas,5099,1.21
+2018-07-01,B1001,New York,New York,USA,Water,276989,0.0605
+2018-07-01,B1001,New York,New York,USA,Electricity,47635,0.0968
+2018-07-01,B1001,New York,New York,USA,Gas,5559,1.21
+2018-07-01,B1002,New York,New York,USA,Water,288098,0.0605
+2018-07-01,B1002,New York,New York,USA,Electricity,34208,0.0968
+2018-07-01,B1002,New York,New York,USA,Gas,5773,1.21
+2018-07-01,B1003,Los Angeles,California,USA,Water,433696,0.0605
+2018-07-01,B1003,Los Angeles,California,USA,Electricity,47436,0.0968
+2018-07-01,B1003,Los Angeles,California,USA,Gas,6089,1.21
+2018-07-01,B1004,Chicago,Illinois,USA,Water,405977,0.0605
+2018-07-01,B1004,Chicago,Illinois,USA,Electricity,51630,0.0968
+2018-07-01,B1004,Chicago,Illinois,USA,Gas,6005,1.21
+2018-07-01,B1005,Houston,Texas,USA,Water,383653,0.0605
+2018-07-01,B1005,Houston,Texas,USA,Electricity,50413,0.0968
+2018-07-01,B1005,Houston,Texas,USA,Gas,4130,1.21
+2018-07-01,B1006,Phoenix,Arizona,USA,Water,494754,0.0605
+2018-07-01,B1006,Phoenix,Arizona,USA,Electricity,53082,0.0968
+2018-07-01,B1006,Phoenix,Arizona,USA,Gas,5678,1.21
+2018-07-01,B1007,Chicago,Illinois,USA,Water,502045,0.0605
+2018-07-01,B1007,Chicago,Illinois,USA,Electricity,54714,0.0968
+2018-07-01,B1007,Chicago,Illinois,USA,Gas,6471,1.21
+2018-07-01,B1008,Chicago,Illinois,USA,Water,441239,0.0605
+2018-07-01,B1008,Chicago,Illinois,USA,Electricity,37720,0.0968
+2018-07-01,B1008,Chicago,Illinois,USA,Gas,4650,1.21
+2018-07-01,B1009,Los Angeles,California,USA,Water,209930,0.0605
+2018-07-01,B1009,Los Angeles,California,USA,Electricity,45551,0.0968
+2018-07-01,B1009,Los Angeles,California,USA,Gas,6668,1.21
+2018-07-01,B1010,Los Angeles,California,USA,Water,214789,0.0605
+2018-07-01,B1010,Los Angeles,California,USA,Electricity,55133,0.0968
+2018-07-01,B1010,Los Angeles,California,USA,Gas,5227,1.21
+2018-08-01,B1000,New York,New York,USA,Water,497647,0.0605
+2018-08-01,B1000,New York,New York,USA,Electricity,44195,0.0968
+2018-08-01,B1000,New York,New York,USA,Gas,4107,1.21
+2018-08-01,B1001,New York,New York,USA,Water,287796,0.0605
+2018-08-01,B1001,New York,New York,USA,Electricity,28967,0.0968
+2018-08-01,B1001,New York,New York,USA,Gas,3996,1.21
+2018-08-01,B1002,New York,New York,USA,Water,303920,0.0605
+2018-08-01,B1002,New York,New York,USA,Electricity,42135,0.0968
+2018-08-01,B1002,New York,New York,USA,Gas,4099,1.21
+2018-08-01,B1003,Los Angeles,California,USA,Water,287172,0.0605
+2018-08-01,B1003,Los Angeles,California,USA,Electricity,31595,0.0968
+2018-08-01,B1003,Los Angeles,California,USA,Gas,6144,1.21
+2018-08-01,B1004,Chicago,Illinois,USA,Water,383208,0.0605
+2018-08-01,B1004,Chicago,Illinois,USA,Electricity,38249,0.0968
+2018-08-01,B1004,Chicago,Illinois,USA,Gas,5700,1.21
+2018-08-01,B1005,Houston,Texas,USA,Water,231719,0.0605
+2018-08-01,B1005,Houston,Texas,USA,Electricity,42088,0.0968
+2018-08-01,B1005,Houston,Texas,USA,Gas,4777,1.21
+2018-08-01,B1006,Phoenix,Arizona,USA,Water,495985,0.0605
+2018-08-01,B1006,Phoenix,Arizona,USA,Electricity,54285,0.0968
+2018-08-01,B1006,Phoenix,Arizona,USA,Gas,6561,1.21
+2018-08-01,B1007,Chicago,Illinois,USA,Water,478891,0.0605
+2018-08-01,B1007,Chicago,Illinois,USA,Electricity,47605,0.0968
+2018-08-01,B1007,Chicago,Illinois,USA,Gas,5065,1.21
+2018-08-01,B1008,Chicago,Illinois,USA,Water,406070,0.0605
+2018-08-01,B1008,Chicago,Illinois,USA,Electricity,32296,0.0968
+2018-08-01,B1008,Chicago,Illinois,USA,Gas,6729,1.21
+2018-08-01,B1009,Los Angeles,California,USA,Water,264964,0.0605
+2018-08-01,B1009,Los Angeles,California,USA,Electricity,39041,0.0968
+2018-08-01,B1009,Los Angeles,California,USA,Gas,5507,1.21
+2018-08-01,B1010,Los Angeles,California,USA,Water,348732,0.0605
+2018-08-01,B1010,Los Angeles,California,USA,Electricity,37989,0.0968
+2018-08-01,B1010,Los Angeles,California,USA,Gas,3937,1.21
+2018-09-01,B1000,New York,New York,USA,Water,337972,0.0605
+2018-09-01,B1000,New York,New York,USA,Electricity,48414,0.0968
+2018-09-01,B1000,New York,New York,USA,Gas,4600,1.21
+2018-09-01,B1001,New York,New York,USA,Water,343041,0.0605
+2018-09-01,B1001,New York,New York,USA,Electricity,35897,0.0968
+2018-09-01,B1001,New York,New York,USA,Gas,5964,1.21
+2018-09-01,B1002,New York,New York,USA,Water,343770,0.0605
+2018-09-01,B1002,New York,New York,USA,Electricity,39232,0.0968
+2018-09-01,B1002,New York,New York,USA,Gas,4765,1.21
+2018-09-01,B1003,Los Angeles,California,USA,Water,439946,0.0605
+2018-09-01,B1003,Los Angeles,California,USA,Electricity,54626,0.0968
+2018-09-01,B1003,Los Angeles,California,USA,Gas,4333,1.21
+2018-09-01,B1004,Chicago,Illinois,USA,Water,423928,0.0605
+2018-09-01,B1004,Chicago,Illinois,USA,Electricity,27309,0.0968
+2018-09-01,B1004,Chicago,Illinois,USA,Gas,6677,1.21
+2018-09-01,B1005,Houston,Texas,USA,Water,410320,0.0605
+2018-09-01,B1005,Houston,Texas,USA,Electricity,33666,0.0968
+2018-09-01,B1005,Houston,Texas,USA,Gas,5651,1.21
+2018-09-01,B1006,Phoenix,Arizona,USA,Water,209588,0.0605
+2018-09-01,B1006,Phoenix,Arizona,USA,Electricity,46242,0.0968
+2018-09-01,B1006,Phoenix,Arizona,USA,Gas,5682,1.21
+2018-09-01,B1007,Chicago,Illinois,USA,Water,215356,0.0605
+2018-09-01,B1007,Chicago,Illinois,USA,Electricity,36477,0.0968
+2018-09-01,B1007,Chicago,Illinois,USA,Gas,4617,1.21
+2018-09-01,B1008,Chicago,Illinois,USA,Water,213394,0.0605
+2018-09-01,B1008,Chicago,Illinois,USA,Electricity,44717,0.0968
+2018-09-01,B1008,Chicago,Illinois,USA,Gas,6658,1.21
+2018-09-01,B1009,Los Angeles,California,USA,Water,228928,0.0605
+2018-09-01,B1009,Los Angeles,California,USA,Electricity,33863,0.0968
+2018-09-01,B1009,Los Angeles,California,USA,Gas,6367,1.21
+2018-09-01,B1010,Los Angeles,California,USA,Water,229638,0.0605
+2018-09-01,B1010,Los Angeles,California,USA,Electricity,55009,0.0968
+2018-09-01,B1010,Los Angeles,California,USA,Gas,4967,1.21
+2018-10-01,B1000,New York,New York,USA,Water,384357,0.0605
+2018-10-01,B1000,New York,New York,USA,Electricity,56530,0.0968
+2018-10-01,B1000,New York,New York,USA,Gas,4690,1.21
+2018-10-01,B1001,New York,New York,USA,Water,477890,0.0605
+2018-10-01,B1001,New York,New York,USA,Electricity,40897,0.0968
+2018-10-01,B1001,New York,New York,USA,Gas,6293,1.21
+2018-10-01,B1002,New York,New York,USA,Water,326333,0.0605
+2018-10-01,B1002,New York,New York,USA,Electricity,56329,0.0968
+2018-10-01,B1002,New York,New York,USA,Gas,5945,1.21
+2018-10-01,B1003,Los Angeles,California,USA,Water,469359,0.0605
+2018-10-01,B1003,Los Angeles,California,USA,Electricity,55647,0.0968
+2018-10-01,B1003,Los Angeles,California,USA,Gas,4064,1.21
+2018-10-01,B1004,Chicago,Illinois,USA,Water,213170,0.0605
+2018-10-01,B1004,Chicago,Illinois,USA,Electricity,32700,0.0968
+2018-10-01,B1004,Chicago,Illinois,USA,Gas,6298,1.21
+2018-10-01,B1005,Houston,Texas,USA,Water,356934,0.0605
+2018-10-01,B1005,Houston,Texas,USA,Electricity,40147,0.0968
+2018-10-01,B1005,Houston,Texas,USA,Gas,4336,1.21
+2018-10-01,B1006,Phoenix,Arizona,USA,Water,465714,0.0605
+2018-10-01,B1006,Phoenix,Arizona,USA,Electricity,51671,0.0968
+2018-10-01,B1006,Phoenix,Arizona,USA,Gas,5390,1.21
+2018-10-01,B1007,Chicago,Illinois,USA,Water,209183,0.0605
+2018-10-01,B1007,Chicago,Illinois,USA,Electricity,51132,0.0968
+2018-10-01,B1007,Chicago,Illinois,USA,Gas,4090,1.21
+2018-10-01,B1008,Chicago,Illinois,USA,Water,327888,0.0605
+2018-10-01,B1008,Chicago,Illinois,USA,Electricity,35833,0.0968
+2018-10-01,B1008,Chicago,Illinois,USA,Gas,5198,1.21
+2018-10-01,B1009,Los Angeles,California,USA,Water,213906,0.0605
+2018-10-01,B1009,Los Angeles,California,USA,Electricity,49976,0.0968
+2018-10-01,B1009,Los Angeles,California,USA,Gas,6272,1.21
+2018-10-01,B1010,Los Angeles,California,USA,Water,326049,0.0605
+2018-10-01,B1010,Los Angeles,California,USA,Electricity,49572,0.0968
+2018-10-01,B1010,Los Angeles,California,USA,Gas,5974,1.21
+2018-11-01,B1000,New York,New York,USA,Water,426014,0.0605
+2018-11-01,B1000,New York,New York,USA,Electricity,43069,0.0968
+2018-11-01,B1000,New York,New York,USA,Gas,6663,1.21
+2018-11-01,B1001,New York,New York,USA,Water,286891,0.0605
+2018-11-01,B1001,New York,New York,USA,Electricity,31598,0.0968
+2018-11-01,B1001,New York,New York,USA,Gas,5394,1.21
+2018-11-01,B1002,New York,New York,USA,Water,467482,0.0605
+2018-11-01,B1002,New York,New York,USA,Electricity,56726,0.0968
+2018-11-01,B1002,New York,New York,USA,Gas,5874,1.21
+2018-11-01,B1003,Los Angeles,California,USA,Water,500850,0.0605
+2018-11-01,B1003,Los Angeles,California,USA,Electricity,41440,0.0968
+2018-11-01,B1003,Los Angeles,California,USA,Gas,3972,1.21
+2018-11-01,B1004,Chicago,Illinois,USA,Water,302079,0.0605
+2018-11-01,B1004,Chicago,Illinois,USA,Electricity,57541,0.0968
+2018-11-01,B1004,Chicago,Illinois,USA,Gas,6048,1.21
+2018-11-01,B1005,Houston,Texas,USA,Water,352871,0.0605
+2018-11-01,B1005,Houston,Texas,USA,Electricity,48045,0.0968
+2018-11-01,B1005,Houston,Texas,USA,Gas,4761,1.21
+2018-11-01,B1006,Phoenix,Arizona,USA,Water,292224,0.0605
+2018-11-01,B1006,Phoenix,Arizona,USA,Electricity,55455,0.0968
+2018-11-01,B1006,Phoenix,Arizona,USA,Gas,4541,1.21
+2018-11-01,B1007,Chicago,Illinois,USA,Water,240399,0.0605
+2018-11-01,B1007,Chicago,Illinois,USA,Electricity,56392,0.0968
+2018-11-01,B1007,Chicago,Illinois,USA,Gas,4089,1.21
+2018-11-01,B1008,Chicago,Illinois,USA,Water,338413,0.0605
+2018-11-01,B1008,Chicago,Illinois,USA,Electricity,39153,0.0968
+2018-11-01,B1008,Chicago,Illinois,USA,Gas,5988,1.21
+2018-11-01,B1009,Los Angeles,California,USA,Water,380358,0.0605
+2018-11-01,B1009,Los Angeles,California,USA,Electricity,40375,0.0968
+2018-11-01,B1009,Los Angeles,California,USA,Gas,4797,1.21
+2018-11-01,B1010,Los Angeles,California,USA,Water,244084,0.0605
+2018-11-01,B1010,Los Angeles,California,USA,Electricity,43037,0.0968
+2018-11-01,B1010,Los Angeles,California,USA,Gas,4880,1.21
+2018-12-01,B1000,New York,New York,USA,Water,372784,0.0605
+2018-12-01,B1000,New York,New York,USA,Electricity,35967,0.0968
+2018-12-01,B1000,New York,New York,USA,Gas,4073,1.21
+2018-12-01,B1001,New York,New York,USA,Water,236592,0.0605
+2018-12-01,B1001,New York,New York,USA,Electricity,53307,0.0968
+2018-12-01,B1001,New York,New York,USA,Gas,6628,1.21
+2018-12-01,B1002,New York,New York,USA,Water,365522,0.0605
+2018-12-01,B1002,New York,New York,USA,Electricity,44632,0.0968
+2018-12-01,B1002,New York,New York,USA,Gas,6355,1.21
+2018-12-01,B1003,Los Angeles,California,USA,Water,299857,0.0605
+2018-12-01,B1003,Los Angeles,California,USA,Electricity,27827,0.0968
+2018-12-01,B1003,Los Angeles,California,USA,Gas,4371,1.21
+2018-12-01,B1004,Chicago,Illinois,USA,Water,480456,0.0605
+2018-12-01,B1004,Chicago,Illinois,USA,Electricity,39682,0.0968
+2018-12-01,B1004,Chicago,Illinois,USA,Gas,5174,1.21
+2018-12-01,B1005,Houston,Texas,USA,Water,322124,0.0605
+2018-12-01,B1005,Houston,Texas,USA,Electricity,35956,0.0968
+2018-12-01,B1005,Houston,Texas,USA,Gas,4691,1.21
+2018-12-01,B1006,Phoenix,Arizona,USA,Water,413612,0.0605
+2018-12-01,B1006,Phoenix,Arizona,USA,Electricity,43343,0.0968
+2018-12-01,B1006,Phoenix,Arizona,USA,Gas,4083,1.21
+2018-12-01,B1007,Chicago,Illinois,USA,Water,424677,0.0605
+2018-12-01,B1007,Chicago,Illinois,USA,Electricity,38026,0.0968
+2018-12-01,B1007,Chicago,Illinois,USA,Gas,6314,1.21
+2018-12-01,B1008,Chicago,Illinois,USA,Water,482136,0.0605
+2018-12-01,B1008,Chicago,Illinois,USA,Electricity,34518,0.0968
+2018-12-01,B1008,Chicago,Illinois,USA,Gas,6291,1.21
+2018-12-01,B1009,Los Angeles,California,USA,Water,289432,0.0605
+2018-12-01,B1009,Los Angeles,California,USA,Electricity,35348,0.0968
+2018-12-01,B1009,Los Angeles,California,USA,Gas,5242,1.21
+2018-12-01,B1010,Los Angeles,California,USA,Water,209723,0.0605
+2018-12-01,B1010,Los Angeles,California,USA,Electricity,45156,0.0968
+2018-12-01,B1010,Los Angeles,California,USA,Gas,4743,1.21
+2019-01-01,B1000,New York,New York,USA,Water,228140,0.06655
+2019-01-01,B1000,New York,New York,USA,Electricity,39154,0.10648
+2019-01-01,B1000,New York,New York,USA,Gas,5604,1.331
+2019-01-01,B1001,New York,New York,USA,Water,378981,0.06655
+2019-01-01,B1001,New York,New York,USA,Electricity,48636,0.10648
+2019-01-01,B1001,New York,New York,USA,Gas,6010,1.331
+2019-01-01,B1002,New York,New York,USA,Water,498748,0.06655
+2019-01-01,B1002,New York,New York,USA,Electricity,32239,0.10648
+2019-01-01,B1002,New York,New York,USA,Gas,5256,1.331
+2019-01-01,B1003,Los Angeles,California,USA,Water,490354,0.06655
+2019-01-01,B1003,Los Angeles,California,USA,Electricity,42751,0.10648
+2019-01-01,B1003,Los Angeles,California,USA,Gas,4295,1.331
+2019-01-01,B1004,Chicago,Illinois,USA,Water,329374,0.06655
+2019-01-01,B1004,Chicago,Illinois,USA,Electricity,33900,0.10648
+2019-01-01,B1004,Chicago,Illinois,USA,Gas,5351,1.331
+2019-01-01,B1005,Houston,Texas,USA,Water,272377,0.06655
+2019-01-01,B1005,Houston,Texas,USA,Electricity,29414,0.10648
+2019-01-01,B1005,Houston,Texas,USA,Gas,4942,1.331
+2019-01-01,B1006,Phoenix,Arizona,USA,Water,409804,0.06655
+2019-01-01,B1006,Phoenix,Arizona,USA,Electricity,53583,0.10648
+2019-01-01,B1006,Phoenix,Arizona,USA,Gas,4021,1.331
+2019-01-01,B1007,Chicago,Illinois,USA,Water,417083,0.06655
+2019-01-01,B1007,Chicago,Illinois,USA,Electricity,48320,0.10648
+2019-01-01,B1007,Chicago,Illinois,USA,Gas,6536,1.331
+2019-01-01,B1008,Chicago,Illinois,USA,Water,362727,0.06655
+2019-01-01,B1008,Chicago,Illinois,USA,Electricity,41778,0.10648
+2019-01-01,B1008,Chicago,Illinois,USA,Gas,6065,1.331
+2019-01-01,B1009,Los Angeles,California,USA,Water,415273,0.06655
+2019-01-01,B1009,Los Angeles,California,USA,Electricity,54328,0.10648
+2019-01-01,B1009,Los Angeles,California,USA,Gas,6144,1.331
+2019-01-01,B1010,Los Angeles,California,USA,Water,267786,0.06655
+2019-01-01,B1010,Los Angeles,California,USA,Electricity,38437,0.10648
+2019-01-01,B1010,Los Angeles,California,USA,Gas,5452,1.331
+2019-02-01,B1000,New York,New York,USA,Water,420530,0.06655
+2019-02-01,B1000,New York,New York,USA,Electricity,52264,0.10648
+2019-02-01,B1000,New York,New York,USA,Gas,5224,1.331
+2019-02-01,B1001,New York,New York,USA,Water,443639,0.06655
+2019-02-01,B1001,New York,New York,USA,Electricity,57211,0.10648
+2019-02-01,B1001,New York,New York,USA,Gas,4186,1.331
+2019-02-01,B1002,New York,New York,USA,Water,264645,0.06655
+2019-02-01,B1002,New York,New York,USA,Electricity,35953,0.10648
+2019-02-01,B1002,New York,New York,USA,Gas,6097,1.331
+2019-02-01,B1003,Los Angeles,California,USA,Water,436778,0.06655
+2019-02-01,B1003,Los Angeles,California,USA,Electricity,48239,0.10648
+2019-02-01,B1003,Los Angeles,California,USA,Gas,7034,1.331
+2019-02-01,B1004,Chicago,Illinois,USA,Water,307980,0.06655
+2019-02-01,B1004,Chicago,Illinois,USA,Electricity,41143,0.10648
+2019-02-01,B1004,Chicago,Illinois,USA,Gas,6235,1.331
+2019-02-01,B1005,Houston,Texas,USA,Water,486375,0.06655
+2019-02-01,B1005,Houston,Texas,USA,Electricity,28748,0.10648
+2019-02-01,B1005,Houston,Texas,USA,Gas,4185,1.331
+2019-02-01,B1006,Phoenix,Arizona,USA,Water,317307,0.06655
+2019-02-01,B1006,Phoenix,Arizona,USA,Electricity,40489,0.10648
+2019-02-01,B1006,Phoenix,Arizona,USA,Gas,4798,1.331
+2019-02-01,B1007,Chicago,Illinois,USA,Water,214603,0.06655
+2019-02-01,B1007,Chicago,Illinois,USA,Electricity,36057,0.10648
+2019-02-01,B1007,Chicago,Illinois,USA,Gas,6378,1.331
+2019-02-01,B1008,Chicago,Illinois,USA,Water,375742,0.06655
+2019-02-01,B1008,Chicago,Illinois,USA,Electricity,57809,0.10648
+2019-02-01,B1008,Chicago,Illinois,USA,Gas,5176,1.331
+2019-02-01,B1009,Los Angeles,California,USA,Water,213559,0.06655
+2019-02-01,B1009,Los Angeles,California,USA,Electricity,42614,0.10648
+2019-02-01,B1009,Los Angeles,California,USA,Gas,4742,1.331
+2019-02-01,B1010,Los Angeles,California,USA,Water,503772,0.06655
+2019-02-01,B1010,Los Angeles,California,USA,Electricity,36338,0.10648
+2019-02-01,B1010,Los Angeles,California,USA,Gas,6784,1.331
+2019-03-01,B1000,New York,New York,USA,Water,272016,0.06655
+2019-03-01,B1000,New York,New York,USA,Electricity,42188,0.10648
+2019-03-01,B1000,New York,New York,USA,Gas,5582,1.331
+2019-03-01,B1001,New York,New York,USA,Water,488834,0.06655
+2019-03-01,B1001,New York,New York,USA,Electricity,46358,0.10648
+2019-03-01,B1001,New York,New York,USA,Gas,7091,1.331
+2019-03-01,B1002,New York,New York,USA,Water,404324,0.06655
+2019-03-01,B1002,New York,New York,USA,Electricity,53213,0.10648
+2019-03-01,B1002,New York,New York,USA,Gas,6187,1.331
+2019-03-01,B1003,Los Angeles,California,USA,Water,209533,0.06655
+2019-03-01,B1003,Los Angeles,California,USA,Electricity,51166,0.10648
+2019-03-01,B1003,Los Angeles,California,USA,Gas,6741,1.331
+2019-03-01,B1004,Chicago,Illinois,USA,Water,312573,0.06655
+2019-03-01,B1004,Chicago,Illinois,USA,Electricity,38498,0.10648
+2019-03-01,B1004,Chicago,Illinois,USA,Gas,4772,1.331
+2019-03-01,B1005,Houston,Texas,USA,Water,278254,0.06655
+2019-03-01,B1005,Houston,Texas,USA,Electricity,45906,0.10648
+2019-03-01,B1005,Houston,Texas,USA,Gas,5600,1.331
+2019-03-01,B1006,Phoenix,Arizona,USA,Water,331843,0.06655
+2019-03-01,B1006,Phoenix,Arizona,USA,Electricity,50186,0.10648
+2019-03-01,B1006,Phoenix,Arizona,USA,Gas,4251,1.331
+2019-03-01,B1007,Chicago,Illinois,USA,Water,264797,0.06655
+2019-03-01,B1007,Chicago,Illinois,USA,Electricity,51313,0.10648
+2019-03-01,B1007,Chicago,Illinois,USA,Gas,6031,1.331
+2019-03-01,B1008,Chicago,Illinois,USA,Water,501185,0.06655
+2019-03-01,B1008,Chicago,Illinois,USA,Electricity,57470,0.10648
+2019-03-01,B1008,Chicago,Illinois,USA,Gas,5517,1.331
+2019-03-01,B1009,Los Angeles,California,USA,Water,504470,0.06655
+2019-03-01,B1009,Los Angeles,California,USA,Electricity,44325,0.10648
+2019-03-01,B1009,Los Angeles,California,USA,Gas,4483,1.331
+2019-03-01,B1010,Los Angeles,California,USA,Water,433402,0.06655
+2019-03-01,B1010,Los Angeles,California,USA,Electricity,57596,0.10648
+2019-03-01,B1010,Los Angeles,California,USA,Gas,6998,1.331
+2019-04-01,B1000,New York,New York,USA,Water,362212,0.06655
+2019-04-01,B1000,New York,New York,USA,Electricity,57204,0.10648
+2019-04-01,B1000,New York,New York,USA,Gas,5715,1.331
+2019-04-01,B1001,New York,New York,USA,Water,393234,0.06655
+2019-04-01,B1001,New York,New York,USA,Electricity,49235,0.10648
+2019-04-01,B1001,New York,New York,USA,Gas,4956,1.331
+2019-04-01,B1002,New York,New York,USA,Water,292418,0.06655
+2019-04-01,B1002,New York,New York,USA,Electricity,32118,0.10648
+2019-04-01,B1002,New York,New York,USA,Gas,5158,1.331
+2019-04-01,B1003,Los Angeles,California,USA,Water,361020,0.06655
+2019-04-01,B1003,Los Angeles,California,USA,Electricity,52789,0.10648
+2019-04-01,B1003,Los Angeles,California,USA,Gas,5304,1.331
+2019-04-01,B1004,Chicago,Illinois,USA,Water,372903,0.06655
+2019-04-01,B1004,Chicago,Illinois,USA,Electricity,51970,0.10648
+2019-04-01,B1004,Chicago,Illinois,USA,Gas,6313,1.331
+2019-04-01,B1005,Houston,Texas,USA,Water,227656,0.06655
+2019-04-01,B1005,Houston,Texas,USA,Electricity,49633,0.10648
+2019-04-01,B1005,Houston,Texas,USA,Gas,5498,1.331
+2019-04-01,B1006,Phoenix,Arizona,USA,Water,291177,0.06655
+2019-04-01,B1006,Phoenix,Arizona,USA,Electricity,48179,0.10648
+2019-04-01,B1006,Phoenix,Arizona,USA,Gas,5010,1.331
+2019-04-01,B1007,Chicago,Illinois,USA,Water,300470,0.06655
+2019-04-01,B1007,Chicago,Illinois,USA,Electricity,47161,0.10648
+2019-04-01,B1007,Chicago,Illinois,USA,Gas,4910,1.331
+2019-04-01,B1008,Chicago,Illinois,USA,Water,394071,0.06655
+2019-04-01,B1008,Chicago,Illinois,USA,Electricity,38383,0.10648
+2019-04-01,B1008,Chicago,Illinois,USA,Gas,5396,1.331
+2019-04-01,B1009,Los Angeles,California,USA,Water,316105,0.06655
+2019-04-01,B1009,Los Angeles,California,USA,Electricity,35132,0.10648
+2019-04-01,B1009,Los Angeles,California,USA,Gas,5412,1.331
+2019-04-01,B1010,Los Angeles,California,USA,Water,459811,0.06655
+2019-04-01,B1010,Los Angeles,California,USA,Electricity,29185,0.10648
+2019-04-01,B1010,Los Angeles,California,USA,Gas,6356,1.331
+2019-05-01,B1000,New York,New York,USA,Water,228697,0.06655
+2019-05-01,B1000,New York,New York,USA,Electricity,43337,0.10648
+2019-05-01,B1000,New York,New York,USA,Gas,6882,1.331
+2019-05-01,B1001,New York,New York,USA,Water,455376,0.06655
+2019-05-01,B1001,New York,New York,USA,Electricity,34736,0.10648
+2019-05-01,B1001,New York,New York,USA,Gas,7213,1.331
+2019-05-01,B1002,New York,New York,USA,Water,233485,0.06655
+2019-05-01,B1002,New York,New York,USA,Electricity,43301,0.10648
+2019-05-01,B1002,New York,New York,USA,Gas,5087,1.331
+2019-05-01,B1003,Los Angeles,California,USA,Water,277489,0.06655
+2019-05-01,B1003,Los Angeles,California,USA,Electricity,53787,0.10648
+2019-05-01,B1003,Los Angeles,California,USA,Gas,6774,1.331
+2019-05-01,B1004,Chicago,Illinois,USA,Water,347852,0.06655
+2019-05-01,B1004,Chicago,Illinois,USA,Electricity,30824,0.10648
+2019-05-01,B1004,Chicago,Illinois,USA,Gas,6972,1.331
+2019-05-01,B1005,Houston,Texas,USA,Water,422740,0.06655
+2019-05-01,B1005,Houston,Texas,USA,Electricity,55755,0.10648
+2019-05-01,B1005,Houston,Texas,USA,Gas,6909,1.331
+2019-05-01,B1006,Phoenix,Arizona,USA,Water,405895,0.06655
+2019-05-01,B1006,Phoenix,Arizona,USA,Electricity,47146,0.10648
+2019-05-01,B1006,Phoenix,Arizona,USA,Gas,5630,1.331
+2019-05-01,B1007,Chicago,Illinois,USA,Water,317689,0.06655
+2019-05-01,B1007,Chicago,Illinois,USA,Electricity,42539,0.10648
+2019-05-01,B1007,Chicago,Illinois,USA,Gas,5380,1.331
+2019-05-01,B1008,Chicago,Illinois,USA,Water,293969,0.06655
+2019-05-01,B1008,Chicago,Illinois,USA,Electricity,38654,0.10648
+2019-05-01,B1008,Chicago,Illinois,USA,Gas,4795,1.331
+2019-05-01,B1009,Los Angeles,California,USA,Water,226483,0.06655
+2019-05-01,B1009,Los Angeles,California,USA,Electricity,51402,0.10648
+2019-05-01,B1009,Los Angeles,California,USA,Gas,5230,1.331
+2019-05-01,B1010,Los Angeles,California,USA,Water,380881,0.06655
+2019-05-01,B1010,Los Angeles,California,USA,Electricity,51980,0.10648
+2019-05-01,B1010,Los Angeles,California,USA,Gas,4578,1.331
+2019-06-01,B1000,New York,New York,USA,Water,236306,0.06655
+2019-06-01,B1000,New York,New York,USA,Electricity,38618,0.10648
+2019-06-01,B1000,New York,New York,USA,Gas,6919,1.331
+2019-06-01,B1001,New York,New York,USA,Water,502128,0.06655
+2019-06-01,B1001,New York,New York,USA,Electricity,39206,0.10648
+2019-06-01,B1001,New York,New York,USA,Gas,5801,1.331
+2019-06-01,B1002,New York,New York,USA,Water,319935,0.06655
+2019-06-01,B1002,New York,New York,USA,Electricity,48613,0.10648
+2019-06-01,B1002,New York,New York,USA,Gas,6957,1.331
+2019-06-01,B1003,Los Angeles,California,USA,Water,366329,0.06655
+2019-06-01,B1003,Los Angeles,California,USA,Electricity,31432,0.10648
+2019-06-01,B1003,Los Angeles,California,USA,Gas,6730,1.331
+2019-06-01,B1004,Chicago,Illinois,USA,Water,483655,0.06655
+2019-06-01,B1004,Chicago,Illinois,USA,Electricity,32921,0.10648
+2019-06-01,B1004,Chicago,Illinois,USA,Gas,4329,1.331
+2019-06-01,B1005,Houston,Texas,USA,Water,349983,0.06655
+2019-06-01,B1005,Houston,Texas,USA,Electricity,29654,0.10648
+2019-06-01,B1005,Houston,Texas,USA,Gas,6986,1.331
+2019-06-01,B1006,Phoenix,Arizona,USA,Water,425895,0.06655
+2019-06-01,B1006,Phoenix,Arizona,USA,Electricity,57500,0.10648
+2019-06-01,B1006,Phoenix,Arizona,USA,Gas,5740,1.331
+2019-06-01,B1007,Chicago,Illinois,USA,Water,432557,0.06655
+2019-06-01,B1007,Chicago,Illinois,USA,Electricity,42334,0.10648
+2019-06-01,B1007,Chicago,Illinois,USA,Gas,5773,1.331
+2019-06-01,B1008,Chicago,Illinois,USA,Water,294627,0.06655
+2019-06-01,B1008,Chicago,Illinois,USA,Electricity,32600,0.10648
+2019-06-01,B1008,Chicago,Illinois,USA,Gas,7249,1.331
+2019-06-01,B1009,Los Angeles,California,USA,Water,209336,0.06655
+2019-06-01,B1009,Los Angeles,California,USA,Electricity,46415,0.10648
+2019-06-01,B1009,Los Angeles,California,USA,Gas,5229,1.331
+2019-06-01,B1010,Los Angeles,California,USA,Water,309122,0.06655
+2019-06-01,B1010,Los Angeles,California,USA,Electricity,54813,0.10648
+2019-06-01,B1010,Los Angeles,California,USA,Gas,6404,1.331
+2019-07-01,B1000,New York,New York,USA,Water,316838,0.06655
+2019-07-01,B1000,New York,New York,USA,Electricity,34073,0.10648
+2019-07-01,B1000,New York,New York,USA,Gas,6666,1.331
+2019-07-01,B1001,New York,New York,USA,Water,479577,0.06655
+2019-07-01,B1001,New York,New York,USA,Electricity,31398,0.10648
+2019-07-01,B1001,New York,New York,USA,Gas,5183,1.331
+2019-07-01,B1002,New York,New York,USA,Water,358565,0.06655
+2019-07-01,B1002,New York,New York,USA,Electricity,50731,0.10648
+2019-07-01,B1002,New York,New York,USA,Gas,6094,1.331
+2019-07-01,B1003,Los Angeles,California,USA,Water,252508,0.06655
+2019-07-01,B1003,Los Angeles,California,USA,Electricity,51921,0.10648
+2019-07-01,B1003,Los Angeles,California,USA,Gas,6038,1.331
+2019-07-01,B1004,Chicago,Illinois,USA,Water,348251,0.06655
+2019-07-01,B1004,Chicago,Illinois,USA,Electricity,31368,0.10648
+2019-07-01,B1004,Chicago,Illinois,USA,Gas,6857,1.331
+2019-07-01,B1005,Houston,Texas,USA,Water,259430,0.06655
+2019-07-01,B1005,Houston,Texas,USA,Electricity,35974,0.10648
+2019-07-01,B1005,Houston,Texas,USA,Gas,6984,1.331
+2019-07-01,B1006,Phoenix,Arizona,USA,Water,466380,0.06655
+2019-07-01,B1006,Phoenix,Arizona,USA,Electricity,50555,0.10648
+2019-07-01,B1006,Phoenix,Arizona,USA,Gas,5605,1.331
+2019-07-01,B1007,Chicago,Illinois,USA,Water,362366,0.06655
+2019-07-01,B1007,Chicago,Illinois,USA,Electricity,40083,0.10648
+2019-07-01,B1007,Chicago,Illinois,USA,Gas,6673,1.331
+2019-07-01,B1008,Chicago,Illinois,USA,Water,252845,0.06655
+2019-07-01,B1008,Chicago,Illinois,USA,Electricity,29909,0.10648
+2019-07-01,B1008,Chicago,Illinois,USA,Gas,5665,1.331
+2019-07-01,B1009,Los Angeles,California,USA,Water,427064,0.06655
+2019-07-01,B1009,Los Angeles,California,USA,Electricity,46903,0.10648
+2019-07-01,B1009,Los Angeles,California,USA,Gas,6926,1.331
+2019-07-01,B1010,Los Angeles,California,USA,Water,408423,0.06655
+2019-07-01,B1010,Los Angeles,California,USA,Electricity,32128,0.10648
+2019-07-01,B1010,Los Angeles,California,USA,Gas,7200,1.331
+2019-08-01,B1000,New York,New York,USA,Water,215824,0.06655
+2019-08-01,B1000,New York,New York,USA,Electricity,32747,0.10648
+2019-08-01,B1000,New York,New York,USA,Gas,5467,1.331
+2019-08-01,B1001,New York,New York,USA,Water,363813,0.06655
+2019-08-01,B1001,New York,New York,USA,Electricity,52722,0.10648
+2019-08-01,B1001,New York,New York,USA,Gas,6412,1.331
+2019-08-01,B1002,New York,New York,USA,Water,300556,0.06655
+2019-08-01,B1002,New York,New York,USA,Electricity,51146,0.10648
+2019-08-01,B1002,New York,New York,USA,Gas,6481,1.331
+2019-08-01,B1003,Los Angeles,California,USA,Water,352674,0.06655
+2019-08-01,B1003,Los Angeles,California,USA,Electricity,29656,0.10648
+2019-08-01,B1003,Los Angeles,California,USA,Gas,5122,1.331
+2019-08-01,B1004,Chicago,Illinois,USA,Water,264184,0.06655
+2019-08-01,B1004,Chicago,Illinois,USA,Electricity,48705,0.10648
+2019-08-01,B1004,Chicago,Illinois,USA,Gas,4775,1.331
+2019-08-01,B1005,Houston,Texas,USA,Water,244567,0.06655
+2019-08-01,B1005,Houston,Texas,USA,Electricity,53815,0.10648
+2019-08-01,B1005,Houston,Texas,USA,Gas,4988,1.331
+2019-08-01,B1006,Phoenix,Arizona,USA,Water,435469,0.06655
+2019-08-01,B1006,Phoenix,Arizona,USA,Electricity,44565,0.10648
+2019-08-01,B1006,Phoenix,Arizona,USA,Gas,4557,1.331
+2019-08-01,B1007,Chicago,Illinois,USA,Water,258005,0.06655
+2019-08-01,B1007,Chicago,Illinois,USA,Electricity,52090,0.10648
+2019-08-01,B1007,Chicago,Illinois,USA,Gas,5759,1.331
+2019-08-01,B1008,Chicago,Illinois,USA,Water,384645,0.06655
+2019-08-01,B1008,Chicago,Illinois,USA,Electricity,57213,0.10648
+2019-08-01,B1008,Chicago,Illinois,USA,Gas,5446,1.331
+2019-08-01,B1009,Los Angeles,California,USA,Water,240083,0.06655
+2019-08-01,B1009,Los Angeles,California,USA,Electricity,55128,0.10648
+2019-08-01,B1009,Los Angeles,California,USA,Gas,5426,1.331
+2019-08-01,B1010,Los Angeles,California,USA,Water,484282,0.06655
+2019-08-01,B1010,Los Angeles,California,USA,Electricity,35221,0.10648
+2019-08-01,B1010,Los Angeles,California,USA,Gas,7238,1.331
+2019-09-01,B1000,New York,New York,USA,Water,373705,0.06655
+2019-09-01,B1000,New York,New York,USA,Electricity,58150,0.10648
+2019-09-01,B1000,New York,New York,USA,Gas,7019,1.331
+2019-09-01,B1001,New York,New York,USA,Water,445372,0.06655
+2019-09-01,B1001,New York,New York,USA,Electricity,33686,0.10648
+2019-09-01,B1001,New York,New York,USA,Gas,7351,1.331
+2019-09-01,B1002,New York,New York,USA,Water,284382,0.06655
+2019-09-01,B1002,New York,New York,USA,Electricity,50385,0.10648
+2019-09-01,B1002,New York,New York,USA,Gas,5453,1.331
+2019-09-01,B1003,Los Angeles,California,USA,Water,245843,0.06655
+2019-09-01,B1003,Los Angeles,California,USA,Electricity,59519,0.10648
+2019-09-01,B1003,Los Angeles,California,USA,Gas,6593,1.331
+2019-09-01,B1004,Chicago,Illinois,USA,Water,369415,0.06655
+2019-09-01,B1004,Chicago,Illinois,USA,Electricity,53877,0.10648
+2019-09-01,B1004,Chicago,Illinois,USA,Gas,6204,1.331
+2019-09-01,B1005,Houston,Texas,USA,Water,473477,0.06655
+2019-09-01,B1005,Houston,Texas,USA,Electricity,48070,0.10648
+2019-09-01,B1005,Houston,Texas,USA,Gas,6326,1.331
+2019-09-01,B1006,Phoenix,Arizona,USA,Water,253252,0.06655
+2019-09-01,B1006,Phoenix,Arizona,USA,Electricity,59522,0.10648
+2019-09-01,B1006,Phoenix,Arizona,USA,Gas,5966,1.331
+2019-09-01,B1007,Chicago,Illinois,USA,Water,277407,0.06655
+2019-09-01,B1007,Chicago,Illinois,USA,Electricity,35276,0.10648
+2019-09-01,B1007,Chicago,Illinois,USA,Gas,5470,1.331
+2019-09-01,B1008,Chicago,Illinois,USA,Water,471329,0.06655
+2019-09-01,B1008,Chicago,Illinois,USA,Electricity,41094,0.10648
+2019-09-01,B1008,Chicago,Illinois,USA,Gas,7101,1.331
+2019-09-01,B1009,Los Angeles,California,USA,Water,286761,0.06655
+2019-09-01,B1009,Los Angeles,California,USA,Electricity,48372,0.10648
+2019-09-01,B1009,Los Angeles,California,USA,Gas,5619,1.331
+2019-09-01,B1010,Los Angeles,California,USA,Water,412985,0.06655
+2019-09-01,B1010,Los Angeles,California,USA,Electricity,53976,0.10648
+2019-09-01,B1010,Los Angeles,California,USA,Gas,7265,1.331
+2019-10-01,B1000,New York,New York,USA,Water,490276,0.06655
+2019-10-01,B1000,New York,New York,USA,Electricity,51677,0.10648
+2019-10-01,B1000,New York,New York,USA,Gas,6719,1.331
+2019-10-01,B1001,New York,New York,USA,Water,324504,0.06655
+2019-10-01,B1001,New York,New York,USA,Electricity,36415,0.10648
+2019-10-01,B1001,New York,New York,USA,Gas,6657,1.331
+2019-10-01,B1002,New York,New York,USA,Water,306409,0.06655
+2019-10-01,B1002,New York,New York,USA,Electricity,46616,0.10648
+2019-10-01,B1002,New York,New York,USA,Gas,6194,1.331
+2019-10-01,B1003,Los Angeles,California,USA,Water,293326,0.06655
+2019-10-01,B1003,Los Angeles,California,USA,Electricity,35855,0.10648
+2019-10-01,B1003,Los Angeles,California,USA,Gas,6473,1.331
+2019-10-01,B1004,Chicago,Illinois,USA,Water,249961,0.06655
+2019-10-01,B1004,Chicago,Illinois,USA,Electricity,56681,0.10648
+2019-10-01,B1004,Chicago,Illinois,USA,Gas,4847,1.331
+2019-10-01,B1005,Houston,Texas,USA,Water,320673,0.06655
+2019-10-01,B1005,Houston,Texas,USA,Electricity,49616,0.10648
+2019-10-01,B1005,Houston,Texas,USA,Gas,5290,1.331
+2019-10-01,B1006,Phoenix,Arizona,USA,Water,306390,0.06655
+2019-10-01,B1006,Phoenix,Arizona,USA,Electricity,32782,0.10648
+2019-10-01,B1006,Phoenix,Arizona,USA,Gas,6146,1.331
+2019-10-01,B1007,Chicago,Illinois,USA,Water,280457,0.06655
+2019-10-01,B1007,Chicago,Illinois,USA,Electricity,40681,0.10648
+2019-10-01,B1007,Chicago,Illinois,USA,Gas,5573,1.331
+2019-10-01,B1008,Chicago,Illinois,USA,Water,458539,0.06655
+2019-10-01,B1008,Chicago,Illinois,USA,Electricity,35108,0.10648
+2019-10-01,B1008,Chicago,Illinois,USA,Gas,5453,1.331
+2019-10-01,B1009,Los Angeles,California,USA,Water,329857,0.06655
+2019-10-01,B1009,Los Angeles,California,USA,Electricity,56335,0.10648
+2019-10-01,B1009,Los Angeles,California,USA,Gas,5550,1.331
+2019-10-01,B1010,Los Angeles,California,USA,Water,340319,0.06655
+2019-10-01,B1010,Los Angeles,California,USA,Electricity,37434,0.10648
+2019-10-01,B1010,Los Angeles,California,USA,Gas,7315,1.331
+2019-11-01,B1000,New York,New York,USA,Water,389855,0.06655
+2019-11-01,B1000,New York,New York,USA,Electricity,37260,0.10648
+2019-11-01,B1000,New York,New York,USA,Gas,6576,1.331
+2019-11-01,B1001,New York,New York,USA,Water,339059,0.06655
+2019-11-01,B1001,New York,New York,USA,Electricity,44054,0.10648
+2019-11-01,B1001,New York,New York,USA,Gas,4670,1.331
+2019-11-01,B1002,New York,New York,USA,Water,258965,0.06655
+2019-11-01,B1002,New York,New York,USA,Electricity,59091,0.10648
+2019-11-01,B1002,New York,New York,USA,Gas,6963,1.331
+2019-11-01,B1003,Los Angeles,California,USA,Water,236308,0.06655
+2019-11-01,B1003,Los Angeles,California,USA,Electricity,50550,0.10648
+2019-11-01,B1003,Los Angeles,California,USA,Gas,5590,1.331
+2019-11-01,B1004,Chicago,Illinois,USA,Water,456825,0.06655
+2019-11-01,B1004,Chicago,Illinois,USA,Electricity,58332,0.10648
+2019-11-01,B1004,Chicago,Illinois,USA,Gas,5267,1.331
+2019-11-01,B1005,Houston,Texas,USA,Water,304562,0.06655
+2019-11-01,B1005,Houston,Texas,USA,Electricity,51652,0.10648
+2019-11-01,B1005,Houston,Texas,USA,Gas,5351,1.331
+2019-11-01,B1006,Phoenix,Arizona,USA,Water,250707,0.06655
+2019-11-01,B1006,Phoenix,Arizona,USA,Electricity,32352,0.10648
+2019-11-01,B1006,Phoenix,Arizona,USA,Gas,4819,1.331
+2019-11-01,B1007,Chicago,Illinois,USA,Water,230530,0.06655
+2019-11-01,B1007,Chicago,Illinois,USA,Electricity,33793,0.10648
+2019-11-01,B1007,Chicago,Illinois,USA,Gas,5162,1.331
+2019-11-01,B1008,Chicago,Illinois,USA,Water,292592,0.06655
+2019-11-01,B1008,Chicago,Illinois,USA,Electricity,58132,0.10648
+2019-11-01,B1008,Chicago,Illinois,USA,Gas,7105,1.331
+2019-11-01,B1009,Los Angeles,California,USA,Water,498580,0.06655
+2019-11-01,B1009,Los Angeles,California,USA,Electricity,46656,0.10648
+2019-11-01,B1009,Los Angeles,California,USA,Gas,6377,1.331
+2019-11-01,B1010,Los Angeles,California,USA,Water,399116,0.06655
+2019-11-01,B1010,Los Angeles,California,USA,Electricity,35443,0.10648
+2019-11-01,B1010,Los Angeles,California,USA,Gas,7024,1.331
+2019-12-01,B1000,New York,New York,USA,Water,223002,0.06655
+2019-12-01,B1000,New York,New York,USA,Electricity,42292,0.10648
+2019-12-01,B1000,New York,New York,USA,Gas,5429,1.331
+2019-12-01,B1001,New York,New York,USA,Water,318295,0.06655
+2019-12-01,B1001,New York,New York,USA,Electricity,57947,0.10648
+2019-12-01,B1001,New York,New York,USA,Gas,4989,1.331
+2019-12-01,B1002,New York,New York,USA,Water,314027,0.06655
+2019-12-01,B1002,New York,New York,USA,Electricity,51023,0.10648
+2019-12-01,B1002,New York,New York,USA,Gas,5031,1.331
+2019-12-01,B1003,Los Angeles,California,USA,Water,501494,0.06655
+2019-12-01,B1003,Los Angeles,California,USA,Electricity,45974,0.10648
+2019-12-01,B1003,Los Angeles,California,USA,Gas,5803,1.331
+2019-12-01,B1004,Chicago,Illinois,USA,Water,360049,0.06655
+2019-12-01,B1004,Chicago,Illinois,USA,Electricity,48434,0.10648
+2019-12-01,B1004,Chicago,Illinois,USA,Gas,7250,1.331
+2019-12-01,B1005,Houston,Texas,USA,Water,337879,0.06655
+2019-12-01,B1005,Houston,Texas,USA,Electricity,38611,0.10648
+2019-12-01,B1005,Houston,Texas,USA,Gas,4889,1.331
+2019-12-01,B1006,Phoenix,Arizona,USA,Water,296157,0.06655
+2019-12-01,B1006,Phoenix,Arizona,USA,Electricity,33938,0.10648
+2019-12-01,B1006,Phoenix,Arizona,USA,Gas,4931,1.331
+2019-12-01,B1007,Chicago,Illinois,USA,Water,319388,0.06655
+2019-12-01,B1007,Chicago,Illinois,USA,Electricity,37106,0.10648
+2019-12-01,B1007,Chicago,Illinois,USA,Gas,4748,1.331
+2019-12-01,B1008,Chicago,Illinois,USA,Water,251866,0.06655
+2019-12-01,B1008,Chicago,Illinois,USA,Electricity,47079,0.10648
+2019-12-01,B1008,Chicago,Illinois,USA,Gas,5909,1.331
+2019-12-01,B1009,Los Angeles,California,USA,Water,280510,0.06655
+2019-12-01,B1009,Los Angeles,California,USA,Electricity,48134,0.10648
+2019-12-01,B1009,Los Angeles,California,USA,Gas,5492,1.331
+2019-12-01,B1010,Los Angeles,California,USA,Water,443282,0.06655
+2019-12-01,B1010,Los Angeles,California,USA,Electricity,42027,0.10648
+2019-12-01,B1010,Los Angeles,California,USA,Gas,5610,1.331
