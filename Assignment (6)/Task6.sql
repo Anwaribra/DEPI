@@ -18,6 +18,7 @@ COPY EnergyConsumption FROM 'A:/Data/Projects/DEPI/Assignment (6)/energy_consump
 
 
 
+
 -- Step 1: Create the Building table
 CREATE TABLE Building (
     Building_id SERIAL PRIMARY KEY,  -- Unique identifier for each building
