@@ -102,11 +102,7 @@ LEFT JOIN
 GROUP BY ec.building, month;
 
 
-
 -- SELECT * FROM monthly_energy_summary;
-
-
-
 
 select * from energy_consumptions;
 SELECT * FROM monthly_energy_summary;
